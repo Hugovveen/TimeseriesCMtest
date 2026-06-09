@@ -1,0 +1,354 @@
+{
+  "obj": [
+    {
+      "timestp": "2023-12-31",
+      "stage": "mid-level",
+      "stage_score": 20,
+      "momentum": "gradual decline",
+      "momentum_score": 71
+    },
+    {
+      "timestp": "2023-12-28",
+      "stage": "mid-level",
+      "stage_score": 20,
+      "momentum": "gradual decline",
+      "momentum_score": 78
+    },
+    {
+      "timestp": "2023-12-24",
+      "stage": "mid-level",
+      "stage_score": 20,
+      "momentum": "gradual decline",
+      "momentum_score": 83
+    },
+    {
+      "timestp": "2023-12-20",
+      "stage": "mid-level",
+      "stage_score": 20,
+      "momentum": "gradual decline",
+      "momentum_score": 91
+    },
+    {
+      "timestp": "2023-12-17",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "gradual decline",
+      "momentum_score": 98
+    },
+    {
+      "timestp": "2023-12-13",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "steady",
+      "momentum_score": 3
+    },
+    {
+      "timestp": "2023-12-10",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "steady",
+      "momentum_score": 6
+    },
+    {
+      "timestp": "2023-12-06",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "steady",
+      "momentum_score": 11
+    },
+    {
+      "timestp": "2023-12-03",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "steady",
+      "momentum_score": 14
+    },
+    {
+      "timestp": "2023-11-29",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "steady",
+      "momentum_score": 17
+    },
+    {
+      "timestp": "2023-11-26",
+      "stage": "mid-level",
+      "stage_score": 21,
+      "momentum": "steady",
+      "momentum_score": 19
+    },
+    {
+      "timestp": "2023-11-22",
+      "stage": "mid-level",
+      "stage_score": 20,
+      "momentum": "steady",
+      "momentum_score": 21
+    },
+    {
+      "timestp": "2023-11-19",
+      "stage": "mid-level",
+      "stage_score": 20,
+      "momentum": "steady",
+      "momentum_score": 21
+    },
+    {
+      "timestp": "2023-11-15",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 22
+    },
+    {
+      "timestp": "2023-11-12",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 24
+    },
+    {
+      "timestp": "2023-11-08",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 27
+    },
+    {
+      "timestp": "2023-11-05",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 31
+    },
+    {
+      "timestp": "2023-11-01",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 35
+    },
+    {
+      "timestp": "2023-10-29",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 40
+    },
+    {
+      "timestp": "2023-10-25",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 44
+    },
+    {
+      "timestp": "2023-10-22",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 47
+    },
+    {
+      "timestp": "2023-10-18",
+      "stage": "mid-level",
+      "stage_score": 18,
+      "momentum": "steady",
+      "momentum_score": 53
+    },
+    {
+      "timestp": "2023-10-15",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 54
+    },
+    {
+      "timestp": "2023-10-11",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 56
+    },
+    {
+      "timestp": "2023-10-08",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 56
+    },
+    {
+      "timestp": "2023-10-04",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 57
+    },
+    {
+      "timestp": "2023-10-01",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 57
+    },
+    {
+      "timestp": "2023-09-27",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 57
+    },
+    {
+      "timestp": "2023-09-24",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 56
+    },
+    {
+      "timestp": "2023-09-20",
+      "stage": "mid-level",
+      "stage_score": 16,
+      "momentum": "steady",
+      "momentum_score": 57
+    },
+    {
+      "timestp": "2023-09-17",
+      "stage": "mid-level",
+      "stage_score": 16,
+      "momentum": "steady",
+      "momentum_score": 57
+    },
+    {
+      "timestp": "2023-09-14",
+      "stage": "mid-level",
+      "stage_score": 16,
+      "momentum": "steady",
+      "momentum_score": 59
+    },
+    {
+      "timestp": "2023-09-06",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 67
+    },
+    {
+      "timestp": "2023-09-03",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 70
+    },
+    {
+      "timestp": "2023-08-30",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 76
+    },
+    {
+      "timestp": "2023-08-27",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 80
+    },
+    {
+      "timestp": "2023-08-23",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 86
+    },
+    {
+      "timestp": "2023-08-20",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 90
+    },
+    {
+      "timestp": "2023-08-16",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 96
+    },
+    {
+      "timestp": "2023-08-13",
+      "stage": "mid-level",
+      "stage_score": 17,
+      "momentum": "steady",
+      "momentum_score": 100
+    },
+    {
+      "timestp": "2023-08-09",
+      "stage": "mid-level",
+      "stage_score": 16,
+      "momentum": "growth",
+      "momentum_score": 1
+    },
+    {
+      "timestp": "2023-08-06",
+      "stage": "mid-level",
+      "stage_score": 15,
+      "momentum": "growth",
+      "momentum_score": 1
+    },
+    {
+      "timestp": "2023-08-02",
+      "stage": "mid-level",
+      "stage_score": 14,
+      "momentum": "growth",
+      "momentum_score": 0
+    },
+    {
+      "timestp": "2023-07-30",
+      "stage": "mid-level",
+      "stage_score": 13,
+      "momentum": "steady",
+      "momentum_score": 98
+    },
+    {
+      "timestp": "2023-07-26",
+      "stage": "mid-level",
+      "stage_score": 13,
+      "momentum": "steady",
+      "momentum_score": 94
+    },
+    {
+      "timestp": "2023-07-23",
+      "stage": "mid-level",
+      "stage_score": 12,
+      "momentum": "steady",
+      "momentum_score": 91
+    },
+    {
+      "timestp": "2023-07-20",
+      "stage": "mid-level",
+      "stage_score": 11,
+      "momentum": "steady",
+      "momentum_score": 90
+    },
+    {
+      "timestp": "2023-07-16",
+      "stage": "developing",
+      "stage_score": 61,
+      "momentum": "steady",
+      "momentum_score": 89
+    },
+    {
+      "timestp": "2023-07-12",
+      "stage": "developing",
+      "stage_score": 61,
+      "momentum": "steady",
+      "momentum_score": 92
+    },
+    {
+      "timestp": "2023-07-09",
+      "stage": "developing",
+      "stage_score": 61,
+      "momentum": "steady",
+      "momentum_score": 94
+    }
+  ]
+}

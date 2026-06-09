@@ -1,0 +1,385 @@
+{
+  "url": "https://api.chartmetric.com/api/artist/240495",
+  "status_code": 200,
+  "ok": true,
+  "json": {
+    "obj": {
+      "id": 240495,
+      "name": "Len Faki",
+      "created_at": "2026-06-09T10:00:34Z",
+      "code2": "IT",
+      "band": false,
+      "pronoun_title": "he/him",
+      "gender_title": "male",
+      "gender": 1,
+      "isni": null,
+      "cm_artist_rank": 72224,
+      "cm_artist_score": 60.7872352801772,
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737174ae59bd82903069b53ef4",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb9eec69c401f621774d39fefc",
+      "hometown_city": "Berlin",
+      "current_city": "Berlin",
+      "current_city_id": 2698,
+      "band_members": null,
+      "booking_agent": "Michael.weicker@metropole-talent.com",
+      "record_label": "Figure",
+      "press_contact": "chris@listen-up.biz",
+      "general_manager": "Michael.weicker@metropole-talent.com",
+      "topSongwriterCollaborators": [
+        "Len Faki",
+        "Levent Faki & Juriaan Jansen",
+        "Dustin Zahn",
+        "Levent Faki",
+        "Len Faki & Mark Hawkins"
+      ],
+      "description": "Len Faki",
+      "genres": {
+        "primary": {
+          "id": 501261,
+          "name": "acidcore",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        "secondary": [
+          {
+            "id": 501175,
+            "name": "house",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501146,
+            "name": "dance",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501124,
+            "name": "electronic",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 507545,
+            "name": "acid",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501609,
+            "name": "lofi",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501446,
+            "name": "dub techno",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501512,
+            "name": "hardstyle",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 507733,
+            "name": "minimal techno",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 503318,
+            "name": "european ambient",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501236,
+            "name": "european dance",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 503326,
+            "name": "european easy listening",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 503309,
+            "name": "european electronic",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 501234,
+            "name": "european hip-hop/rap",
+            "type": "genre_v2",
+            "source": "cm"
+          },
+          {
+            "id": 503319,
+            "name": "european psychedelic",
+            "type": "genre_v2",
+            "source": "cm"
+          }
+        ],
+        "sub": [
+          {
+            "id": 16873,
+            "name": "acid techno",
+            "type": "genre",
+            "source": "spotify"
+          }
+        ]
+      },
+      "genre_smart_ordered": [
+        {
+          "1": 501261
+        },
+        {
+          "2": 501175
+        },
+        {
+          "3": 501146
+        },
+        {
+          "4": 501124
+        },
+        {
+          "5": 507545
+        },
+        {
+          "6": 501609
+        },
+        {
+          "7": 501446
+        },
+        {
+          "8": 501512
+        },
+        {
+          "9": 507733
+        },
+        {
+          "10": 503318
+        },
+        {
+          "11": 501236
+        },
+        {
+          "12": 503326
+        },
+        {
+          "13": 503309
+        },
+        {
+          "14": 501234
+        },
+        {
+          "15": 503319
+        },
+        {
+          "16": 16873
+        }
+      ],
+      "moods": [
+        {
+          "id": 504954,
+          "name": "energetic"
+        },
+        {
+          "id": 504996,
+          "name": "hypnotic"
+        },
+        {
+          "id": 505001,
+          "name": "intense"
+        },
+        {
+          "id": 504946,
+          "name": "dynamic"
+        },
+        {
+          "id": 504917,
+          "name": "atmospheric"
+        },
+        {
+          "id": 505080,
+          "name": "upbeat"
+        },
+        {
+          "id": 504961,
+          "name": "exciting"
+        },
+        {
+          "id": 504907,
+          "name": "adrenaline"
+        }
+      ],
+      "activities": [
+        {
+          "id": 504872,
+          "name": "dancy"
+        },
+        {
+          "id": 504874,
+          "name": "driving"
+        },
+        {
+          "id": 504876,
+          "name": "partying"
+        },
+        {
+          "id": 504903,
+          "name": "late-night"
+        },
+        {
+          "id": 504875,
+          "name": "focus"
+        },
+        {
+          "id": 504878,
+          "name": "urban"
+        },
+        {
+          "id": 504889,
+          "name": "workout"
+        },
+        {
+          "id": 504883,
+          "name": "revolution"
+        }
+      ],
+      "career_status": {
+        "stage": "mid-level",
+        "stage_score": 53,
+        "trend": "steady",
+        "trend_score": 100
+      },
+      "cm_statistics": {
+        "countryRank": {
+          "code2": "IT",
+          "country": "Italy",
+          "rank": 1271,
+          "percentile": 2
+        },
+        "sp_followers": 128158,
+        "sp_followers_rank": 24046,
+        "deezer_fans": 10219,
+        "deezer_fans_rank": 21881,
+        "sp_popularity": 36,
+        "sp_popularity_rank": 92347,
+        "sp_monthly_listeners": 131069,
+        "sp_monthly_listeners_rank": 80425,
+        "sp_where_people_listen": [
+          {
+            "code2": "de",
+            "listeners": 4785,
+            "name": "Berlin"
+          },
+          {
+            "code2": "de",
+            "listeners": 2842,
+            "name": "Bonn"
+          },
+          {
+            "code2": "de",
+            "listeners": 2434,
+            "name": "Frankfurt am Main"
+          },
+          {
+            "code2": "co",
+            "listeners": 1855,
+            "name": "Bogotá"
+          },
+          {
+            "code2": "nl",
+            "listeners": 1838,
+            "name": "Amsterdam"
+          }
+        ],
+        "ins_followers": 449076,
+        "ins_followers_rank": 15953,
+        "ycs_subscribers": 10200,
+        "ycs_subscribers_rank": 66174,
+        "ycs_views": 816764,
+        "ycs_views_rank": 98944,
+        "tiktok_followers": 1284,
+        "tiktok_followers_rank": 51015,
+        "tiktok_likes": 392,
+        "tiktok_likes_rank": 64640,
+        "tiktok_top_video_views": 344518,
+        "tiktok_top_video_views_rank": 360292,
+        "tiktok_top_video_comments": 378,
+        "tiktok_track_posts": 947,
+        "tiktok_track_posts_rank": 215838,
+        "cm_artist_rank": 72224,
+        "cm_artist_score": 60.7872352801772,
+        "fan_base_rank": 24391,
+        "rank_fb": 24391,
+        "rank_eg": 134991,
+        "engagement_rank": 134991,
+        "twitter_followers": 12881,
+        "youtube_daily_video_views": null,
+        "youtube_daily_video_views_rank": null,
+        "youtube_monthly_video_views": null,
+        "youtube_monthly_video_views_rank": null,
+        "twitch_followers": null,
+        "twitch_followers_rank": null,
+        "twitch_views": null,
+        "twitch_views_rank": null,
+        "twitch_monthly_viewer_hours": null,
+        "twitch_monthly_viewer_hours_rank": null,
+        "twitch_weekly_viewer_hours": null,
+        "twitch_weekly_viewer_hours_rank": null,
+        "pandora_listeners_28_day": 71,
+        "pandora_listeners_28_day_rank": 79727,
+        "pandora_lifetime_stations_added": 2884,
+        "pandora_lifetime_stations_added_rank": 51612,
+        "pandora_lifetime_streams": 132462,
+        "pandora_lifetime_streams_rank": 89748,
+        "boomplay_ranking_current": null,
+        "boomplay_ranking_current_rank": null,
+        "boomplay_favorites": null,
+        "boomplay_favorites_rank": null,
+        "boomplay_shares": null,
+        "boomplay_shares_rank": null,
+        "boomplay_comments": null,
+        "boomplay_comments_rank": null,
+        "boomplay_plays": null,
+        "boomplay_plays_rank": null,
+        "num_sp_editorial_playlists": 13,
+        "num_sp_playlists": 34239,
+        "sp_playlist_total_reach": 4749865,
+        "sp_editorial_playlist_total_reach": 179698,
+        "num_am_editorial_playlists": 12,
+        "num_am_playlists": 37,
+        "num_de_editorial_playlists": 2,
+        "num_de_playlists": 21,
+        "de_playlist_total_reach": 51605,
+        "de_editorial_playlist_total_reach": 2190,
+        "num_az_editorial_playlists": 8,
+        "num_az_playlists": 8,
+        "num_yt_editorial_playlists": 0,
+        "num_yt_playlists": 2,
+        "yt_playlist_total_reach": 4774032,
+        "yt_editorial_playlist_total_reach": 0,
+        "shazam_count": 863636,
+        "genius_pageviews": null,
+        "line_music_artist_likes": null,
+        "line_music_likes": null,
+        "line_music_likes_rank": null,
+        "line_music_plays": null,
+        "line_music_plays_rank": null,
+        "line_music_mv_plays": null
+      },
+      "genreRank": {},
+      "subGenreRank1": {},
+      "subGenreRank2": {}
+    }
+  },
+  "text_preview": "{\"obj\":{\"id\":240495,\"name\":\"Len Faki\",\"created_at\":\"2026-06-09T10:00:34Z\",\"code2\":\"IT\",\"band\":false,\"pronoun_title\":\"he/him\",\"gender_title\":\"male\",\"gender\":1,\"isni\":null,\"cm_artist_rank\":72224,\"cm_artist_score\":60.7872352801772,\"cover_url\":\"https://i.scdn.co/image/ab67616d0000b2737174ae59bd82903069b53ef4\",\"image_url\":\"https://i.scdn.co/image/ab6761610000e5eb9eec69c401f621774d39fefc\",\"hometown_city\":\"Berlin\",\"current_city\":\"Berlin\",\"current_city_id\":2698,\"band_members\":null,\"booking_agent\":\"Micha"
+}

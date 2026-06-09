@@ -1,0 +1,7 @@
+{
+  "url": "https://api.chartmetric.com/api/artist/240495/spotify/monthly-listeners?since=2025-06-09&until=2026-06-09",
+  "status_code": 404,
+  "ok": false,
+  "json": null,
+  "text_preview": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/artist/240495/spotify/monthly-listeners</pre>\n</body>\n</html>\n"
+}

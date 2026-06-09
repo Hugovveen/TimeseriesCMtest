@@ -1,0 +1,11 @@
+cm_artist_id,name,probe_status,probe_error
+240495,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/240495
+482964,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/482964
+4099269,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/4099269
+5572,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/5572
+1392496,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/1392496
+211372,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/211372
+14023591,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/14023591
+656450,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/656450
+212455,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/212455
+211347,,error,402 Client Error: Payment Required for url: https://api.chartmetric.com/api/artist/211347
