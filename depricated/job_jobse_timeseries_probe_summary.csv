@@ -1,0 +1,6 @@
+endpoint,status_code,success,matched_key_path,example_value
+api__artist__14023591__career__limit-50__since-2023-01-01__until-2024-01-01,200,True,,
+api__artist__14023591__social-audience-stats__audienceType-followers__domain-instagram__limit-100__since-2024-01-01__statsType-stat__until-2024-12-31,200,True,,
+api__artist__14023591__past-artist-rank__date-2024-06-15__metric-cm_artist_rank,200,True,,
+api__artist__14023591__stat__spotify__field-listeners__since-2024-01-01__until-2024-12-31,200,True,obj.listeners,[]
+api__artist__14023591__stat__spotify__field-followers__since-2024-01-01__until-2024-12-31,200,True,obj.followers,[]
