@@ -1,0 +1,32 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 1495110,
+        "name": "A Strange Wedding",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb0797ea9b406f01fa92e3bc86",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 2849,
+        "sp_monthly_listeners": 2041,
+        "cm_artist_score": 17.03273429523442,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501146
+      },
+      {
+        "id": 4237052,
+        "name": "A Strange Wedding",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734bb921ad47539ce45c65dd54",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 8.06038395980211,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501146
+      }
+    ]
+  }
+}

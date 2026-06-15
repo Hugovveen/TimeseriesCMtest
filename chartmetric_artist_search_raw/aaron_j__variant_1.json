@@ -1,0 +1,136 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 1639291,
+        "name": "Aaron J",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb73d6268e08ea3d30d8ce9bae",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 4652,
+        "sp_monthly_listeners": 11129,
+        "cm_artist_score": 27.64422867521693,
+        "band": false,
+        "gender": null,
+        "primary_genre_smart": 505498
+      },
+      {
+        "id": 208075,
+        "name": "Aaron Jackson",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebabb02768bf1a2ca3e58994c0",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 1873,
+        "sp_monthly_listeners": 8420,
+        "cm_artist_score": 46.4345316067601,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501175
+      },
+      {
+        "id": 11039131,
+        "name": "Aaron Jackson",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27379ffcd89d8ae0a7a4520701b",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 38,
+        "sp_monthly_listeners": 734,
+        "cm_artist_score": 38.49845682559948,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501120
+      },
+      {
+        "id": 10193616,
+        "name": "AARON J",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a44ed8fa4c412cf113e8bb2f",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501699
+      },
+      {
+        "id": 4195034,
+        "name": "Aaron J",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c083fa0c19a2c81e5e0537f8",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501121
+      },
+      {
+        "id": 7707630,
+        "name": "Aaron J",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 9944348,
+        "name": "Aaron J",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738e0003d6371f5734c88bd80a",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 12,
+        "sp_monthly_listeners": 45,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501146
+      },
+      {
+        "id": 520121,
+        "name": "Aaron J",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733f13d025e9d4a545c41f1cd5",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 224,
+        "sp_monthly_listeners": 63,
+        "cm_artist_score": 2.121875903803205,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501378
+      },
+      {
+        "id": 4214971,
+        "name": "Aaron J",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a28379c102d159f6228a6335",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501194
+      },
+      {
+        "id": 7830570,
+        "name": "Aaron J",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ee14e0b5d296b350798ee03b",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      }
+    ]
+  }
+}

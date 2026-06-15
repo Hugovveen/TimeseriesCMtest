@@ -1,0 +1,32 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 11562227,
+        "name": "Joëlla Jackson",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebd6642519e92924935d50e6aa",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 750,
+        "sp_monthly_listeners": 49016,
+        "cm_artist_score": 40.2510081444394,
+        "band": null,
+        "gender": "female",
+        "primary_genre_smart": 501815
+      },
+      {
+        "id": 9693946,
+        "name": "Joelle Jackson",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501633
+      }
+    ]
+  }
+}

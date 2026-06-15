@@ -1,0 +1,136 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 9862026,
+        "name": "Benja",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb25984192596c1e4b90c7111d",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 5088,
+        "sp_monthly_listeners": 44353,
+        "cm_artist_score": 76.81463774229562,
+        "band": false,
+        "gender": "male",
+        "primary_genre_smart": 501541
+      },
+      {
+        "id": 12004205,
+        "name": "Benja (NL)",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb5ffd63cce288d7e9d1e2c94c",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 10951,
+        "sp_monthly_listeners": 6126023,
+        "cm_artist_score": 86.64171986061726,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501267
+      },
+      {
+        "id": 164807,
+        "name": "Benjamin Diamond",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb950442f16fbe3727aaebcf20",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 27949,
+        "sp_monthly_listeners": 7228805,
+        "cm_artist_score": 86.55036540602401,
+        "band": false,
+        "gender": "male",
+        "primary_genre_smart": 501124
+      },
+      {
+        "id": 207621,
+        "name": "Benjamin Britten",
+        "image_url": "https://i.scdn.co/image/40eb3ffb36cd0c98ca76630260d09b0025be373d",
+        "isni": "0000000121181099",
+        "verified": false,
+        "sp_followers": 55475,
+        "sp_monthly_listeners": 247871,
+        "cm_artist_score": 84.03799058541637,
+        "band": false,
+        "gender": "male",
+        "primary_genre_smart": 501140
+      },
+      {
+        "id": 477277,
+        "name": "Benjamin Ingrosso",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb414a4cca954d0a14740e3cc9",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 315015,
+        "sp_monthly_listeners": 2551701,
+        "cm_artist_score": 81.33847310886864,
+        "band": false,
+        "gender": "male",
+        "primary_genre_smart": 501806
+      },
+      {
+        "id": 488437,
+        "name": "Benjamin Hav",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebec779bce47abcf1cdd2fbc1a",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 60060,
+        "sp_monthly_listeners": 689909,
+        "cm_artist_score": 80.8538554926865,
+        "band": null,
+        "gender": "male",
+        "primary_genre_smart": 504382
+      },
+      {
+        "id": 9598796,
+        "name": "Benjamin William Hastings",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb61c6472ae988546bfab6c7b6",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 122635,
+        "sp_monthly_listeners": 2536508,
+        "cm_artist_score": 78.77416969755336,
+        "band": null,
+        "gender": "male",
+        "primary_genre_smart": 501863
+      },
+      {
+        "id": 137565,
+        "name": "Benjamin Biolay",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb9abec18edfa18afa33cef946",
+        "isni": "0000000354733915",
+        "verified": false,
+        "sp_followers": 195745,
+        "sp_monthly_listeners": 376959,
+        "cm_artist_score": 78.0969757594338,
+        "band": false,
+        "gender": "male",
+        "primary_genre_smart": 503641
+      },
+      {
+        "id": 7625412,
+        "name": "Benjamin William Hastings",
+        "image_url": null,
+        "isni": null,
+        "verified": false,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 75.04172908865749,
+        "band": false,
+        "gender": null,
+        "primary_genre_smart": 501497
+      },
+      {
+        "id": 343815,
+        "name": "Benjazzy",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb54a361eb05c1f45d490d0ef8",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 32415,
+        "sp_monthly_listeners": 264578,
+        "cm_artist_score": 74.16635562381248,
+        "band": null,
+        "gender": "male",
+        "primary_genre_smart": 503538
+      }
+    ]
+  }
+}

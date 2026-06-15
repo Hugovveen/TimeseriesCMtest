@@ -1,0 +1,19 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 11805352,
+        "name": "22 Interns",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb63306233e814fc2152aa782f",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 1485,
+        "sp_monthly_listeners": 21950,
+        "cm_artist_score": 38.78962164614903,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501146
+      }
+    ]
+  }
+}

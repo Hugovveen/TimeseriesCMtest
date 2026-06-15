@@ -1,0 +1,32 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 3755736,
+        "name": "Ranger Trucco",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebaa0c12877bba785af4b0b3b1",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 17156,
+        "sp_monthly_listeners": 116681,
+        "cm_artist_score": 72.69994992693276,
+        "band": false,
+        "gender": null,
+        "primary_genre_smart": 501175
+      },
+      {
+        "id": 14969588,
+        "name": "Ranger Trucco",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": 6,
+        "sp_monthly_listeners": 1,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      }
+    ]
+  }
+}

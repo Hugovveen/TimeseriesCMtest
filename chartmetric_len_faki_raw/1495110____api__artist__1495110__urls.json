@@ -1,0 +1,49 @@
+{
+  "obj": [
+    {
+      "domain": "anghami",
+      "url": [
+        "https://play.anghami.com/artist/6617744",
+        "https://play.anghami.com/artist/8637246",
+        "https://play.anghami.com/artist/4138529",
+        "https://anghami.com/artist/4138529"
+      ]
+    },
+    {
+      "domain": "spotify",
+      "url": [
+        "https://open.spotify.com/artist/7L5f5NGmoYwuQC6FdxF2Rl"
+      ]
+    },
+    {
+      "domain": "deezer",
+      "url": [
+        "https://deezer.com/artist/52682022"
+      ]
+    },
+    {
+      "domain": "itunes",
+      "url": [
+        "https://music.apple.com/artist/1439098954"
+      ]
+    },
+    {
+      "domain": "pandora",
+      "url": [
+        "https://pandora.com/artist/AR3Kqd7P62h7P2k"
+      ]
+    },
+    {
+      "domain": "jambase",
+      "url": [
+        "https://jambase.com/band/a-strange-wedding"
+      ]
+    },
+    {
+      "domain": "singleLinkPlatforms"
+    },
+    {
+      "domain": "multiLinkPlatforms"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "obj": [
+    {
+      "domain": "anghami",
+      "url": [
+        "https://play.anghami.com/artist/6435600",
+        "https://play.anghami.com/artist/9115396",
+        "https://play.anghami.com/artist/23745028",
+        "https://play.anghami.com/artist/6304614",
+        "https://play.anghami.com/artist/6435843",
+        "https://play.anghami.com/artist/19845624",
+        "https://play.anghami.com/artist/6524400",
+        "https://play.anghami.com/artist/15098689",
+        "https://play.anghami.com/artist/6494764",
+        "https://play.anghami.com/artist/12159693",
+        "https://play.anghami.com/artist/25778390",
+        "https://anghami.com/artist/6435843",
+        "https://play.anghami.com/artist/6380707",
+        "https://play.anghami.com/artist/22088362",
+        "https://play.anghami.com/artist/17448934",
+        "https://play.anghami.com/artist/5700562",
+        "https://play.anghami.com/artist/12828627",
+        "https://play.anghami.com/artist/13056869",
+        "https://play.anghami.com/artist/26708885",
+        "https://play.anghami.com/artist/16864243",
+        "https://play.anghami.com/artist/25216541",
+        "https://play.anghami.com/artist/13673706",
+        "https://play.anghami.com/artist/8969298",
+        "https://play.anghami.com/artist/1145781",
+        "https://play.anghami.com/artist/19845625",
+        "https://play.anghami.com/artist/2593634",
+        "https://play.anghami.com/artist/19440401",
+        "https://play.anghami.com/artist/2705365",
+        "https://play.anghami.com/artist/6537254",
+        "https://play.anghami.com/artist/6394782",
+        "https://play.anghami.com/artist/22278068",
+        "https://play.anghami.com/artist/6481337",
+        "https://play.anghami.com/artist/19845626",
+        "https://play.anghami.com/artist/28469919",
+        "https://play.anghami.com/artist/1118901",
+        "https://play.anghami.com/artist/6425295",
+        "https://play.anghami.com/artist/1990657",
+        "https://play.anghami.com/artist/12828626",
+        "https://play.anghami.com/artist/1118894",
+        "https://play.anghami.com/artist/19845627",
+        "https://play.anghami.com/artist/2157431",
+        "https://play.anghami.com/artist/2492080",
+        "https://play.anghami.com/artist/1053906",
+        "https://play.anghami.com/artist/28123167",
+        "https://play.anghami.com/artist/1275055",
+        "https://play.anghami.com/artist/25584657"
+      ]
+    },
+    {
+      "domain": "amazon",
+      "url": [
+        "https://music.amazon.com/artists/B00UCZS9OC",
+        "https://music.amazon.com/artists/B00UCZS9OC",
+        "https://music.amazon.com/artists/B00UCZS9OC",
+        "https://music.amazon.com/artists/B00UCZS9OC",
+        "https://music.amazon.com/artists/B00UCZS9OC",
+        "https://music.amazon.com/artists/B00UCZS9OC",
+        "https://music.amazon.com/artists/B00UCZS9OC"
+      ]
+    },
+    {
+      "domain": "youtube",
+      "url": [
+        "https://youtube.com/c/8KAYS"
+      ]
+    },
+    {
+      "domain": "shazam",
+      "url": [
+        "https://shazam.com/artist/8kays/858752127"
+      ]
+    },
+    {
+      "domain": "soundcloud",
+      "url": [
+        "https://soundcloud.com/8kays"
+      ]
+    },
+    {
+      "domain": "musicbrainz",
+      "url": [
+        "https://musicbrainz.org/artist/a8e03379-b66c-474d-9574-f72617da296b"
+      ]
+    },
+    {
+      "domain": "facebook",
+      "url": [
+        "https://facebook.com/8kays"
+      ]
+    },
+    {
+      "domain": "boomplay",
+      "url": [
+        "https://boomplay.com/artists/4204826",
+        "https://boomplay.com/artists/4204826"
+      ]
+    },
+    {
+      "domain": "deezer",
+      "url": [
+        "https://deezer.com/artist/5791690",
+        "https://deezer.com/artist/13587227",
+        "https://deezer.com/artist/13564667"
+      ]
+    },
+    {
+      "domain": "bandsintown",
+      "url": [
+        "https://bandsintown.com/a/12345594"
+      ]
+    },
+    {
+      "domain": "spotify",
+      "url": [
+        "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+      ]
+    },
+    {
+      "domain": "line",
+      "url": [
+        "https://music.line.me/webapp/artist/mi0000000011038a29"
+      ]
+    },
+    {
+      "domain": "jambase",
+      "url": [
+        "https://jambase.com/band/8kays"
+      ]
+    },
+    {
+      "domain": "audiomack",
+      "url": [
+        "https://audiomack.com/8kays-1"
+      ]
+    },
+    {
+      "domain": "discogs",
+      "url": [
+        "https://discogs.com/artist/3986223-8Kays"
+      ]
+    },
+    {
+      "domain": "instagram",
+      "url": [
+        "https://instagram.com/ira8kays"
+      ]
+    },
+    {
+      "domain": "lastfm",
+      "url": [
+        "https://last.fm/music/8Kays"
+      ]
+    },
+    {
+      "domain": "itunes",
+      "url": [
+        "https://music.apple.com/artist/858752127",
+        "https://music.apple.com/artist/1821682920"
+      ]
+    },
+    {
+      "domain": "twitter",
+      "url": [
+        "https://twitter.com/8kays_official"
+      ]
+    },
+    {
+      "domain": "genius",
+      "url": [
+        "https://genius.com/artists/8kays"
+      ]
+    },
+    {
+      "domain": "pandora",
+      "url": [
+        "https://pandora.com/artist/ARlZZhbpgh7fb99"
+      ]
+    },
+    {
+      "domain": "singleLinkPlatforms"
+    },
+    {
+      "domain": "multiLinkPlatforms"
+    }
+  ]
+}

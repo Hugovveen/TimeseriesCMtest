@@ -1,0 +1,19 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 522172,
+        "name": "Abstract Division",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb617d110d15e9634d1f0e305c",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 7270,
+        "sp_monthly_listeners": 4044,
+        "cm_artist_score": 32.82866761892642,
+        "band": false,
+        "gender": null,
+        "primary_genre_smart": 501261
+      }
+    ]
+  }
+}

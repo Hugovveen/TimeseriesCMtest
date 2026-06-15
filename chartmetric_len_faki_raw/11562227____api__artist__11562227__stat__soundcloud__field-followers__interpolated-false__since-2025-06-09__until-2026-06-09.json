@@ -1,0 +1,49 @@
+{
+  "obj": {
+    "link": "https://soundcloud.com/joella-jackson",
+    "followers": [
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 2227,
+        "timestp": "2026-02-19T00:00:00.000Z",
+        "diff": null
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 2227,
+        "timestp": "2026-02-20T00:00:00.000Z",
+        "diff": 0
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 2230,
+        "timestp": "2026-02-21T00:00:00.000Z",
+        "diff": 3
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 2232,
+        "timestp": "2026-02-22T00:00:00.000Z",
+        "diff": 2
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 2236,
+        "timestp": "2026-02-23T00:00:00.000Z",
+        "diff": 4
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 2238,
+        "timestp": "2026-02-24T00:00:00.000Z",
+        "diff": 2
+      }
+    ]
+  }
+}

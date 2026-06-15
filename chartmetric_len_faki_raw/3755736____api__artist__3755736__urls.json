@@ -1,0 +1,129 @@
+{
+  "obj": [
+    {
+      "domain": "pandora",
+      "url": [
+        "https://pandora.com/artist/ARhqrXhltdl5t5c"
+      ]
+    },
+    {
+      "domain": "anghami",
+      "url": [
+        "https://play.anghami.com/artist/11688744",
+        "https://play.anghami.com/artist/15109891",
+        "https://play.anghami.com/artist/6510360",
+        "https://play.anghami.com/artist/12596803",
+        "https://play.anghami.com/artist/22864688",
+        "https://anghami.com/artist/6510360",
+        "https://play.anghami.com/artist/13800363",
+        "https://play.anghami.com/artist/21582672",
+        "https://play.anghami.com/artist/19213294",
+        "https://play.anghami.com/artist/27584128",
+        "https://play.anghami.com/artist/18028712",
+        "https://play.anghami.com/artist/25768086"
+      ]
+    },
+    {
+      "domain": "facebook",
+      "url": [
+        "https://facebook.com/rangertrucco"
+      ]
+    },
+    {
+      "domain": "musicbrainz",
+      "url": [
+        "https://musicbrainz.org/artist/39de9c60-14bb-4148-a29e-08df6303476a"
+      ]
+    },
+    {
+      "domain": "amazon",
+      "url": [
+        "https://music.amazon.com/artists/B0864267MS",
+        "https://music.amazon.com/artists/B0864267MS",
+        "https://music.amazon.com/artists/B0864267MS",
+        "https://music.amazon.com/artists/B0864267MS",
+        "https://music.amazon.com/artists/B0864267MS",
+        "https://music.amazon.com/artists/B0864267MS",
+        "https://music.amazon.com/artists/B0864267MS"
+      ]
+    },
+    {
+      "domain": "soundcloud",
+      "url": [
+        "https://soundcloud.com/ranger-trucco"
+      ]
+    },
+    {
+      "domain": "lastfm",
+      "url": [
+        "https://last.fm/music/Ranger+Trucco"
+      ]
+    },
+    {
+      "domain": "tiktok",
+      "url": [
+        "https://tiktok.com/@rangertrucco?lang=en"
+      ]
+    },
+    {
+      "domain": "spotify",
+      "url": [
+        "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+      ]
+    },
+    {
+      "domain": "website",
+      "url": [
+        "https://rangertrucco.com"
+      ]
+    },
+    {
+      "domain": "youtube",
+      "url": [
+        "https://youtube.com/@djrangertrucco"
+      ]
+    },
+    {
+      "domain": "instagram",
+      "url": [
+        "https://instagram.com/rangertrucco?hl=en"
+      ]
+    },
+    {
+      "domain": "deezer",
+      "url": [
+        "https://deezer.com/artist/88792792"
+      ]
+    },
+    {
+      "domain": "jambase",
+      "url": [
+        "https://jambase.com/band/ranger-trucco"
+      ]
+    },
+    {
+      "domain": "tidal",
+      "url": [
+        "https://tidal.com/browse/artist/18749626"
+      ]
+    },
+    {
+      "domain": "twitter",
+      "url": [
+        "https://twitter.com/djrangertrucco"
+      ]
+    },
+    {
+      "domain": "itunes",
+      "url": [
+        "https://music.apple.com/artist/1503491295"
+      ]
+    },
+    {
+      "domain": "singleLinkPlatforms"
+    },
+    {
+      "domain": "multiLinkPlatforms"
+    }
+  ]
+}

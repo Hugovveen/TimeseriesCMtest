@@ -1,0 +1,277 @@
+{
+  "obj": {
+    "id": 3755736,
+    "name": "Ranger Trucco",
+    "created_at": "2026-06-15T08:28:50Z",
+    "code2": "US",
+    "band": false,
+    "pronoun_title": "he/him",
+    "gender_title": null,
+    "gender": null,
+    "isni": null,
+    "cm_artist_rank": 28247,
+    "cm_artist_score": 72.69994992693276,
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273d71c526c26abce649ba845cc",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5ebaa0c12877bba785af4b0b3b1",
+    "hometown_city": null,
+    "current_city": "Los Angeles",
+    "current_city_id": 7058,
+    "band_members": null,
+    "booking_agent": "Daisy Hoffman and Latane Hughes, Wasserman",
+    "record_label": "range.",
+    "press_contact": null,
+    "general_manager": null,
+    "topSongwriterCollaborators": [
+      "Ranger Trucco",
+      "Tyler Morris & William Ranger Trucco",
+      "Harry Eagle",
+      "Eddie Craig",
+      "Jim Sullivan & Dennis Gordon",
+      "Nathan Katz & William Ranger Trucco",
+      "Dennis Hermans & William Ranger Trucco"
+    ],
+    "description": "Ranger Trucco is one of house music’s fastest-rising talents. Combining effortless lyricism with infectious basslines, he wasted zero time cultivating a truly unique sound that resonates with electronic music fans globally. Both producer &amp; vocalist - Ranger refused to let growing up 4 hours north of the nearest nightlife impede his plans of a future completely immersed in dance music culture. With performances at festivals and clubs nationwide on the horizon, it’s only up from here.",
+    "genres": {
+      "primary": {
+        "id": 501175,
+        "name": "house",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501815,
+          "name": "tech house",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501816,
+          "name": "bass house",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503537,
+          "name": "us dance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503515,
+          "name": "us electronic",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 501175
+      },
+      {
+        "2": 501815
+      },
+      {
+        "3": 501816
+      },
+      {
+        "4": 503537
+      },
+      {
+        "5": 503515
+      }
+    ],
+    "moods": [
+      {
+        "id": 504954,
+        "name": "energetic"
+      },
+      {
+        "id": 505080,
+        "name": "upbeat"
+      },
+      {
+        "id": 504978,
+        "name": "fun"
+      },
+      {
+        "id": 504970,
+        "name": "festive"
+      },
+      {
+        "id": 504956,
+        "name": "entertaining"
+      },
+      {
+        "id": 504925,
+        "name": "catchy"
+      },
+      {
+        "id": 504927,
+        "name": "celebratory"
+      },
+      {
+        "id": 504955,
+        "name": "energizing"
+      }
+    ],
+    "activities": [
+      {
+        "id": 504872,
+        "name": "dancy"
+      },
+      {
+        "id": 504876,
+        "name": "partying"
+      },
+      {
+        "id": 504878,
+        "name": "urban"
+      },
+      {
+        "id": 504884,
+        "name": "summer"
+      },
+      {
+        "id": 504874,
+        "name": "driving"
+      },
+      {
+        "id": 504880,
+        "name": "vacation"
+      },
+      {
+        "id": 504889,
+        "name": "workout"
+      }
+    ],
+    "career_status": {
+      "stage": "developing",
+      "stage_score": 60,
+      "trend": "steady",
+      "trend_score": 87
+    },
+    "cm_statistics": {
+      "countryRank": {
+        "code2": "US",
+        "country": "United States",
+        "rank": 7056,
+        "percentile": 1
+      },
+      "sp_followers": 17156,
+      "sp_followers_rank": 98765,
+      "deezer_fans": 197,
+      "deezer_fans_rank": 248290,
+      "sp_popularity": 35,
+      "sp_popularity_rank": 101607,
+      "sp_monthly_listeners": 116681,
+      "sp_monthly_listeners_rank": 87611,
+      "sp_where_people_listen": [
+        {
+          "code2": "gb",
+          "listeners": 2835,
+          "name": "London"
+        },
+        {
+          "code2": "us",
+          "listeners": 2808,
+          "name": "Los Angeles"
+        },
+        {
+          "code2": "us",
+          "listeners": 1896,
+          "name": "Chicago"
+        },
+        {
+          "code2": "us",
+          "listeners": 1739,
+          "name": "New York City"
+        },
+        {
+          "code2": "au",
+          "listeners": 1453,
+          "name": "Sydney"
+        }
+      ],
+      "ins_followers": 41023,
+      "ins_followers_rank": 60612,
+      "ycs_subscribers": 4270,
+      "ycs_subscribers_rank": 87667,
+      "ycs_views": 1445940,
+      "ycs_views_rank": 85203,
+      "tiktok_followers": 11920,
+      "tiktok_followers_rank": 34089,
+      "tiktok_likes": 293042,
+      "tiktok_likes_rank": 29860,
+      "tiktok_top_video_views": 4834466,
+      "tiktok_top_video_views_rank": 156602,
+      "tiktok_top_video_comments": 4620,
+      "tiktok_track_posts": 605,
+      "tiktok_track_posts_rank": 256309,
+      "cm_artist_rank": 28247,
+      "cm_artist_score": 72.69994992693276,
+      "fan_base_rank": 76157,
+      "rank_fb": 76157,
+      "rank_eg": 23725,
+      "engagement_rank": 23725,
+      "twitter_followers": 9447,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": 21,
+      "pandora_listeners_28_day_rank": 114705,
+      "pandora_lifetime_stations_added": 273,
+      "pandora_lifetime_stations_added_rank": 129528,
+      "pandora_lifetime_streams": 5063,
+      "pandora_lifetime_streams_rank": 234460,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 2,
+      "num_sp_playlists": 28733,
+      "sp_playlist_total_reach": 3387047,
+      "sp_editorial_playlist_total_reach": 81236,
+      "num_am_editorial_playlists": 4,
+      "num_am_playlists": 27,
+      "num_de_editorial_playlists": 0,
+      "num_de_playlists": 2,
+      "de_playlist_total_reach": 16821,
+      "de_editorial_playlist_total_reach": 0,
+      "num_az_editorial_playlists": 7,
+      "num_az_playlists": 7,
+      "num_yt_editorial_playlists": 1,
+      "num_yt_playlists": 2,
+      "yt_playlist_total_reach": 2096085,
+      "yt_editorial_playlist_total_reach": 0,
+      "shazam_count": 122010,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

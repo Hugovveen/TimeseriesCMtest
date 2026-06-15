@@ -1,0 +1,225 @@
+{
+  "obj": {
+    "id": 1366424,
+    "name": "Kai King",
+    "created_at": "2026-06-15T08:18:30Z",
+    "code2": null,
+    "band": false,
+    "pronoun_title": "he/him",
+    "gender_title": null,
+    "gender": null,
+    "isni": null,
+    "cm_artist_rank": 1570148,
+    "cm_artist_score": 4.368718757180135,
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b27324469c222a640afbb03d3e4d",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5eb82663d1e5f97aab7e5c0d64d",
+    "hometown_city": null,
+    "current_city": null,
+    "current_city_id": null,
+    "band_members": null,
+    "booking_agent": null,
+    "record_label": "stuuudio 11",
+    "press_contact": null,
+    "general_manager": null,
+    "topSongwriterCollaborators": [
+      "Kai Romero Francois-King",
+      "Idris Auguste & David Owusu",
+      "David Owusu & Idris Auguste",
+      "Kai King",
+      "Lachlan Shankland & Kai Romero Francois-King"
+    ],
+    "description": "Songwriter, producer, engineer. In that order. Kai blends alternative R&amp;B, alternative hip-hop and smooth-trap elements to create his own unique style of music. Further leaning into melodies and embracing his distinct tone of voice, this up-and-coming artist wears his heart on his sleeve and his art on his back.\n\nAfter a predominantly self taught two years, Kai added production to his list of skills. Starting to make his own beats, he was one step closer to curating his own lane. As well as transcend from an artist to a pioneer. \n\nIn these strange times we find ourselves in, it seems to be the best time for people to enjoy something different. Kai plans to build his community of fans by dropping more and more singles showcasing this new season of his artistry &amp; life. In December 2021 Kai released his self produced ep <a href=\"spotify:album:5pnzL5UC3L9A7jvaqRjxBp\" data-name=\"INTERSTELLAR TRAP\">INTERSTELLAR TRAP</a>. An experimental, dreamy soundscape laced with smooth melodies and out of this world vocal modulation. The project merges psychedelia and trap to create a boundary pushing sound that is way ahead of its time.\n2023 Kai released ‘summer bluez’ \nA seven track experience crafted during some of this young man’s most trying times. A project, unlike its predecessors, made out of complete and utter necessity. \nIn 2024 Kai will flood the scene with brand new tantalising and alternative sounds. A rich catalogue of music videos will also be released throughout the year so fans can be better acquainted with the multi-faceted artist hailing from Hackney.",
+    "genres": {
+      "primary": {
+        "id": 503565,
+        "name": "uk hip-hop/rap",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501125,
+          "name": "r&b/soul",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501146,
+          "name": "dance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501124,
+          "name": "electronic",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501843,
+          "name": "uk hip-hop",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501844,
+          "name": "grime",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501520,
+          "name": "boom bap",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 503565
+      },
+      {
+        "2": 501125
+      },
+      {
+        "3": 501146
+      },
+      {
+        "4": 501124
+      },
+      {
+        "5": 501843
+      },
+      {
+        "6": 501844
+      },
+      {
+        "7": 501520
+      }
+    ],
+    "moods": [],
+    "activities": [],
+    "career_status": {
+      "stage": "undiscovered",
+      "stage_score": 13,
+      "trend": "gradual decline",
+      "trend_score": 59
+    },
+    "cm_statistics": {
+      "countryRank": {},
+      "sp_followers": 1806,
+      "sp_followers_rank": 398735,
+      "deezer_fans": 1,
+      "deezer_fans_rank": 1984966,
+      "sp_popularity": 1,
+      "sp_popularity_rank": 1964508,
+      "sp_monthly_listeners": 230,
+      "sp_monthly_listeners_rank": 1571671,
+      "sp_where_people_listen": [
+        {
+          "code2": "gb",
+          "listeners": 34,
+          "name": "London"
+        },
+        {
+          "code2": "br",
+          "listeners": 5,
+          "name": "São Paulo"
+        },
+        {
+          "code2": "nl",
+          "listeners": 5,
+          "name": "Amsterdam"
+        },
+        {
+          "code2": "pl",
+          "listeners": 3,
+          "name": "Poznan"
+        },
+        {
+          "code2": "fr",
+          "listeners": 3,
+          "name": "Paris"
+        }
+      ],
+      "ins_followers": null,
+      "ins_followers_rank": null,
+      "ycs_subscribers": null,
+      "ycs_subscribers_rank": null,
+      "ycs_views": null,
+      "ycs_views_rank": null,
+      "tiktok_followers": null,
+      "tiktok_followers_rank": null,
+      "tiktok_likes": null,
+      "tiktok_likes_rank": null,
+      "tiktok_top_video_views": 2382,
+      "tiktok_top_video_views_rank": 1221425,
+      "tiktok_top_video_comments": 3,
+      "tiktok_track_posts": 9,
+      "tiktok_track_posts_rank": 979758,
+      "cm_artist_rank": 1570148,
+      "cm_artist_score": 4.368718757180135,
+      "fan_base_rank": null,
+      "rank_fb": null,
+      "rank_eg": null,
+      "engagement_rank": null,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": null,
+      "pandora_listeners_28_day_rank": null,
+      "pandora_lifetime_stations_added": null,
+      "pandora_lifetime_stations_added_rank": null,
+      "pandora_lifetime_streams": null,
+      "pandora_lifetime_streams_rank": null,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 0,
+      "num_sp_playlists": 396,
+      "sp_playlist_total_reach": 219120,
+      "sp_editorial_playlist_total_reach": 0,
+      "num_am_editorial_playlists": null,
+      "num_am_playlists": null,
+      "num_de_editorial_playlists": null,
+      "num_de_playlists": null,
+      "de_playlist_total_reach": null,
+      "de_editorial_playlist_total_reach": null,
+      "num_az_editorial_playlists": null,
+      "num_az_playlists": null,
+      "num_yt_editorial_playlists": null,
+      "num_yt_playlists": null,
+      "yt_playlist_total_reach": null,
+      "yt_editorial_playlist_total_reach": null,
+      "shazam_count": 312,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

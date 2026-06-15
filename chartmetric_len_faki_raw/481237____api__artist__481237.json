@@ -1,0 +1,414 @@
+{
+  "obj": {
+    "id": 481237,
+    "name": "8Kays",
+    "created_at": "2026-06-15T08:03:15Z",
+    "code2": "UA",
+    "band": false,
+    "pronoun_title": "she/her",
+    "gender_title": "female",
+    "gender": 0,
+    "isni": null,
+    "cm_artist_rank": 64935,
+    "cm_artist_score": 62.88211557288905,
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b2732152d1786e1edbee9aa2abad",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5eb337624f12e7db6ee7a88b858",
+    "hometown_city": null,
+    "current_city": "Kyiv",
+    "current_city_id": 6226,
+    "band_members": null,
+    "booking_agent": null,
+    "record_label": "Armada",
+    "press_contact": null,
+    "general_manager": null,
+    "topSongwriterCollaborators": [
+      "Iryna Kustovska & Iryna Shvydka",
+      "Denys Andriianov",
+      "Lorenzo Esposito",
+      "Iryna Shvydka",
+      "Iryna Shvydka & Ramon Riezouw"
+    ],
+    "description": "Describing her creative approach as “music without borders,” 8Kays is a deeply personal project for Ukrainian-born producer and performer Iryna Shvydka. Her music and performances explore an artistic space that has connected deeply with audiences worldwide.\n\nA diverse artist within the Techno and House genre, 8Kays delivers a distinguished sound carefully crafted from electronic influences, presented on stage through live performances and impactful DJ sets.\n\nHer authentic sound has resonated with iconic labels and brands like Berlin’s Watergate Records, John Digweed’s Bedrock imprint, Amsterdam’s DGTL (featuring her collaboration with Delhia de France), and Afterlife – the label elevating 8Kays as a truly global artist.\n\nProven in her own right, 8Kays has become a regular at events like EDC, Tomorrowland, Awakenings, CRSSD, Timewarp, and Afterlife shows worldwide, with club gigs at leading venues like HÏ and Ushuaia Ibiza, Avant Gardner New York, and London’s Printworks. With upcoming releases on Interstellar Recordings, the melodic arm of Insomniac Records, and Armada Music, 8Kays affirms herself as an artist to eagerly watch.",
+    "genres": {
+      "primary": {
+        "id": 501815,
+        "name": "tech house",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501175,
+          "name": "house",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 507614,
+          "name": "deep techno",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 507725,
+          "name": "melodic house",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 507730,
+          "name": "minimal",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 507721,
+          "name": "melodic",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 507781,
+          "name": "progressive house",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501633,
+          "name": "melodic techno",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501126,
+          "name": "classical",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501164,
+          "name": "trap",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 505377,
+          "name": "progressive metal",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503318,
+          "name": "european ambient",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501236,
+          "name": "european dance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503326,
+          "name": "european easy listening",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503309,
+          "name": "european electronic",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501234,
+          "name": "european hip-hop/rap",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503324,
+          "name": "european instrumental",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503308,
+          "name": "european metal",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501235,
+          "name": "european rock",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503311,
+          "name": "european classical",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 501815
+      },
+      {
+        "2": 501175
+      },
+      {
+        "3": 507614
+      },
+      {
+        "4": 507725
+      },
+      {
+        "5": 507730
+      },
+      {
+        "6": 507721
+      },
+      {
+        "7": 507781
+      },
+      {
+        "8": 501633
+      },
+      {
+        "9": 501126
+      },
+      {
+        "10": 501164
+      },
+      {
+        "11": 505377
+      },
+      {
+        "12": 503318
+      },
+      {
+        "13": 501236
+      },
+      {
+        "14": 503326
+      },
+      {
+        "15": 503309
+      },
+      {
+        "16": 501234
+      },
+      {
+        "17": 503324
+      },
+      {
+        "18": 503308
+      },
+      {
+        "19": 501235
+      },
+      {
+        "20": 503311
+      }
+    ],
+    "moods": [
+      {
+        "id": 504954,
+        "name": "energetic"
+      },
+      {
+        "id": 504956,
+        "name": "entertaining"
+      },
+      {
+        "id": 504917,
+        "name": "atmospheric"
+      },
+      {
+        "id": 504951,
+        "name": "emotional"
+      },
+      {
+        "id": 504944,
+        "name": "dramatic"
+      },
+      {
+        "id": 504945,
+        "name": "dreamy"
+      },
+      {
+        "id": 504946,
+        "name": "dynamic"
+      },
+      {
+        "id": 504961,
+        "name": "exciting"
+      }
+    ],
+    "activities": [
+      {
+        "id": 504872,
+        "name": "dancy"
+      },
+      {
+        "id": 504874,
+        "name": "driving"
+      },
+      {
+        "id": 504875,
+        "name": "focus"
+      },
+      {
+        "id": 505248,
+        "name": "melodic"
+      },
+      {
+        "id": 504873,
+        "name": "daydreaming"
+      },
+      {
+        "id": 504876,
+        "name": "partying"
+      },
+      {
+        "id": 504903,
+        "name": "late-night"
+      },
+      {
+        "id": 505260,
+        "name": "relaxation"
+      }
+    ],
+    "career_status": {
+      "stage": "developing",
+      "stage_score": 85,
+      "trend": "steady",
+      "trend_score": 2
+    },
+    "cm_statistics": {
+      "countryRank": {
+        "code2": "UA",
+        "country": "Ukraine",
+        "rank": 173,
+        "percentile": 2
+      },
+      "sp_followers": 35129,
+      "sp_followers_rank": 60911,
+      "deezer_fans": 954,
+      "deezer_fans_rank": 96971,
+      "sp_popularity": 38,
+      "sp_popularity_rank": 79070,
+      "sp_monthly_listeners": 181892,
+      "sp_monthly_listeners_rank": 63417,
+      "sp_where_people_listen": [
+        {
+          "code2": "mx",
+          "listeners": 3761,
+          "name": "Mexico City"
+        },
+        {
+          "code2": "tr",
+          "listeners": 3369,
+          "name": "Istanbul"
+        },
+        {
+          "code2": "de",
+          "listeners": 3080,
+          "name": "Berlin"
+        },
+        {
+          "code2": "ar",
+          "listeners": 2835,
+          "name": "Buenos Aires"
+        },
+        {
+          "code2": "de",
+          "listeners": 2691,
+          "name": "Bonn"
+        }
+      ],
+      "ins_followers": 151801,
+      "ins_followers_rank": 31265,
+      "ycs_subscribers": 6960,
+      "ycs_subscribers_rank": 75014,
+      "ycs_views": 1772559,
+      "ycs_views_rank": 80533,
+      "tiktok_followers": null,
+      "tiktok_followers_rank": null,
+      "tiktok_likes": null,
+      "tiktok_likes_rank": null,
+      "tiktok_top_video_views": 570590,
+      "tiktok_top_video_views_rank": 322424,
+      "tiktok_top_video_comments": 257,
+      "tiktok_track_posts": 276,
+      "tiktok_track_posts_rank": 333287,
+      "cm_artist_rank": 64935,
+      "cm_artist_score": 62.88211557288905,
+      "fan_base_rank": 65104,
+      "rank_fb": 65104,
+      "rank_eg": 62721,
+      "engagement_rank": 62721,
+      "twitter_followers": 293,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": 6,
+      "pandora_listeners_28_day_rank": 171953,
+      "pandora_lifetime_stations_added": null,
+      "pandora_lifetime_stations_added_rank": null,
+      "pandora_lifetime_streams": 5812,
+      "pandora_lifetime_streams_rank": 227143,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 3,
+      "num_sp_playlists": 35640,
+      "sp_playlist_total_reach": 5647190,
+      "sp_editorial_playlist_total_reach": 16872,
+      "num_am_editorial_playlists": 2,
+      "num_am_playlists": 9,
+      "num_de_editorial_playlists": 0,
+      "num_de_playlists": 4,
+      "de_playlist_total_reach": 1312,
+      "de_editorial_playlist_total_reach": 0,
+      "num_az_editorial_playlists": 9,
+      "num_az_playlists": 9,
+      "num_yt_editorial_playlists": 0,
+      "num_yt_playlists": 4,
+      "yt_playlist_total_reach": 170771,
+      "yt_editorial_playlist_total_reach": 0,
+      "shazam_count": 406350,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

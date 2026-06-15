@@ -1,0 +1,268 @@
+{
+  "obj": {
+    "id": 9862026,
+    "name": "Benja",
+    "created_at": "2026-06-15T09:25:56Z",
+    "code2": "CA",
+    "band": false,
+    "pronoun_title": "he/him",
+    "gender_title": "male",
+    "gender": 1,
+    "isni": null,
+    "cm_artist_rank": 18159,
+    "cm_artist_score": 76.81463774229562,
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6d552c8b7bb84e71daae46f",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5eb25984192596c1e4b90c7111d",
+    "hometown_city": null,
+    "current_city": "Toronto",
+    "current_city_id": 1542,
+    "band_members": null,
+    "booking_agent": null,
+    "record_label": "Stay Level Records",
+    "press_contact": null,
+    "general_manager": "Stay Level Music Group",
+    "topSongwriterCollaborators": [
+      "Benjamin Maclean & Samuel Anthony Cohen",
+      "Sam Cohen",
+      "Ben Maclean & Sam Cohen",
+      "Ben Maclean",
+      "Hank Cochran"
+    ],
+    "description": "<p>Music for melting</p>",
+    "genres": {
+      "primary": {
+        "id": 501541,
+        "name": "indie",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501132,
+          "name": "alternative",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501120,
+          "name": "pop",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501122,
+          "name": "rock",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503706,
+          "name": "canadian alternative",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503694,
+          "name": "canadian pop",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503696,
+          "name": "canadian rock",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 501541
+      },
+      {
+        "2": 501132
+      },
+      {
+        "3": 501120
+      },
+      {
+        "4": 501122
+      },
+      {
+        "5": 503706
+      },
+      {
+        "6": 503694
+      },
+      {
+        "7": 503696
+      }
+    ],
+    "moods": [
+      {
+        "id": 504969,
+        "name": "romantic"
+      },
+      {
+        "id": 505012,
+        "name": "loving"
+      },
+      {
+        "id": 504909,
+        "name": "affectionate"
+      },
+      {
+        "id": 504935,
+        "name": "confident"
+      },
+      {
+        "id": 504945,
+        "name": "dreamy"
+      },
+      {
+        "id": 505093,
+        "name": "lighthearted"
+      },
+      {
+        "id": 505105,
+        "name": "sexy"
+      },
+      {
+        "id": 505067,
+        "name": "sultry"
+      }
+    ],
+    "activities": [
+      {
+        "id": 504878,
+        "name": "urban"
+      }
+    ],
+    "career_status": {
+      "stage": "developing",
+      "stage_score": 63,
+      "trend": "growth",
+      "trend_score": 20
+    },
+    "cm_statistics": {
+      "countryRank": {
+        "code2": "CA",
+        "country": "Canada",
+        "rank": 273,
+        "percentile": 1
+      },
+      "sp_followers": 5088,
+      "sp_followers_rank": 214532,
+      "deezer_fans": null,
+      "deezer_fans_rank": null,
+      "sp_popularity": 27,
+      "sp_popularity_rank": 203475,
+      "sp_monthly_listeners": 44353,
+      "sp_monthly_listeners_rank": 164941,
+      "sp_where_people_listen": [
+        {
+          "code2": "ca",
+          "listeners": 959,
+          "name": "Toronto"
+        },
+        {
+          "code2": "us",
+          "listeners": 919,
+          "name": "Los Angeles"
+        },
+        {
+          "code2": "ca",
+          "listeners": 681,
+          "name": "Montreal"
+        },
+        {
+          "code2": "us",
+          "listeners": 671,
+          "name": "Chicago"
+        },
+        {
+          "code2": "us",
+          "listeners": 486,
+          "name": "New York City"
+        }
+      ],
+      "ins_followers": 20754,
+      "ins_followers_rank": 81307,
+      "ycs_subscribers": 471,
+      "ycs_subscribers_rank": 156029,
+      "ycs_views": 112465,
+      "ycs_views_rank": 151934,
+      "tiktok_followers": 21800,
+      "tiktok_followers_rank": 29420,
+      "tiktok_likes": 2300000,
+      "tiktok_likes_rank": 15665,
+      "tiktok_top_video_views": 2844406,
+      "tiktok_top_video_views_rank": 189961,
+      "tiktok_top_video_comments": 1663,
+      "tiktok_track_posts": 281,
+      "tiktok_track_posts_rank": 331059,
+      "cm_artist_rank": 18159,
+      "cm_artist_score": 76.81463774229562,
+      "fan_base_rank": 183618,
+      "rank_fb": 183618,
+      "rank_eg": 13847,
+      "engagement_rank": 13847,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": 5,
+      "pandora_listeners_28_day_rank": 181669,
+      "pandora_lifetime_stations_added": 40,
+      "pandora_lifetime_stations_added_rank": 213477,
+      "pandora_lifetime_streams": 623,
+      "pandora_lifetime_streams_rank": 350613,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 1,
+      "num_sp_playlists": 2542,
+      "sp_playlist_total_reach": 3222145,
+      "sp_editorial_playlist_total_reach": 230144,
+      "num_am_editorial_playlists": 8,
+      "num_am_playlists": 9,
+      "num_de_editorial_playlists": null,
+      "num_de_playlists": null,
+      "de_playlist_total_reach": null,
+      "de_editorial_playlist_total_reach": null,
+      "num_az_editorial_playlists": null,
+      "num_az_playlists": null,
+      "num_yt_editorial_playlists": null,
+      "num_yt_playlists": null,
+      "yt_playlist_total_reach": null,
+      "yt_editorial_playlist_total_reach": null,
+      "shazam_count": 6228,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

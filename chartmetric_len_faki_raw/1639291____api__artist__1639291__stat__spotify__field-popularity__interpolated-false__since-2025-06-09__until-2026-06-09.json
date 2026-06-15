@@ -1,0 +1,55 @@
+{
+  "obj": {
+    "link": "https://open.spotify.com/artist/298Nba1968gE4RowlJu2EJ",
+    "popularity": [
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 18,
+        "timestp": "2025-07-11T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 18,
+        "timestp": "2025-08-10T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 18,
+        "timestp": "2025-09-09T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 15,
+        "timestp": "2025-10-15T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 17,
+        "timestp": "2025-11-17T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 19,
+        "timestp": "2025-12-17T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 16,
+        "timestp": "2026-03-15T00:00:00.000Z"
+      },
+      {
+        "weekly_diff": null,
+        "weekly_diff_percent": null,
+        "value": 17,
+        "timestp": "2026-05-21T00:00:00.000Z"
+      }
+    ]
+  }
+}

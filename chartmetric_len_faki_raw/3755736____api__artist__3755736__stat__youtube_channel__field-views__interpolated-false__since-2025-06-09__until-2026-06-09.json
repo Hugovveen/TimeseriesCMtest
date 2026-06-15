@@ -1,0 +1,2869 @@
+{
+  "obj": {
+    "link": "https://www.youtube.com/@djrangertrucco",
+    "views": [
+      {
+        "value": 148421,
+        "timestp": "2025-06-09",
+        "is_interpolated": true,
+        "diff": null
+      },
+      {
+        "value": 148572,
+        "timestp": "2025-06-10",
+        "is_interpolated": true,
+        "diff": 151
+      },
+      {
+        "value": 148723,
+        "timestp": "2025-06-11",
+        "is_interpolated": true,
+        "diff": 151
+      },
+      {
+        "value": 148874,
+        "timestp": "2025-06-12",
+        "is_interpolated": false,
+        "diff": 151
+      },
+      {
+        "value": 149009,
+        "timestp": "2025-06-13",
+        "is_interpolated": true,
+        "diff": 135
+      },
+      {
+        "value": 149143,
+        "timestp": "2025-06-14",
+        "is_interpolated": false,
+        "diff": 134
+      },
+      {
+        "value": 149358,
+        "timestp": "2025-06-15",
+        "is_interpolated": true,
+        "diff": 215
+      },
+      {
+        "value": 149572,
+        "timestp": "2025-06-16",
+        "is_interpolated": false,
+        "diff": 214
+      },
+      {
+        "value": 149645,
+        "timestp": "2025-06-17",
+        "is_interpolated": false,
+        "diff": 73
+      },
+      {
+        "value": 149770,
+        "timestp": "2025-06-18",
+        "is_interpolated": false,
+        "diff": 125
+      },
+      {
+        "value": 149900,
+        "timestp": "2025-06-19",
+        "is_interpolated": false,
+        "diff": 130
+      },
+      {
+        "value": 150129,
+        "timestp": "2025-06-20",
+        "is_interpolated": false,
+        "diff": 229
+      },
+      {
+        "value": 151343,
+        "timestp": "2025-06-21",
+        "is_interpolated": true,
+        "diff": 1214
+      },
+      {
+        "value": 152557,
+        "timestp": "2025-06-22",
+        "is_interpolated": false,
+        "diff": 1214
+      },
+      {
+        "value": 153677,
+        "timestp": "2025-06-23",
+        "is_interpolated": true,
+        "diff": 1120
+      },
+      {
+        "value": 154796,
+        "timestp": "2025-06-24",
+        "is_interpolated": true,
+        "diff": 1119
+      },
+      {
+        "value": 155916,
+        "timestp": "2025-06-25",
+        "is_interpolated": true,
+        "diff": 1120
+      },
+      {
+        "value": 157035,
+        "timestp": "2025-06-26",
+        "is_interpolated": false,
+        "diff": 1119
+      },
+      {
+        "value": 157872,
+        "timestp": "2025-06-27",
+        "is_interpolated": false,
+        "diff": 837
+      },
+      {
+        "value": 158414,
+        "timestp": "2025-06-28",
+        "is_interpolated": false,
+        "diff": 542
+      },
+      {
+        "value": 159123,
+        "timestp": "2025-06-29",
+        "is_interpolated": true,
+        "diff": 709
+      },
+      {
+        "value": 159832,
+        "timestp": "2025-06-30",
+        "is_interpolated": false,
+        "diff": 709
+      },
+      {
+        "value": 160396,
+        "timestp": "2025-07-01",
+        "is_interpolated": false,
+        "diff": 564
+      },
+      {
+        "value": 160950,
+        "timestp": "2025-07-02",
+        "is_interpolated": false,
+        "diff": 554
+      },
+      {
+        "value": 161351,
+        "timestp": "2025-07-03",
+        "is_interpolated": true,
+        "diff": 401
+      },
+      {
+        "value": 161752,
+        "timestp": "2025-07-04",
+        "is_interpolated": true,
+        "diff": 401
+      },
+      {
+        "value": 162152,
+        "timestp": "2025-07-05",
+        "is_interpolated": true,
+        "diff": 400
+      },
+      {
+        "value": 162553,
+        "timestp": "2025-07-06",
+        "is_interpolated": true,
+        "diff": 401
+      },
+      {
+        "value": 162954,
+        "timestp": "2025-07-07",
+        "is_interpolated": false,
+        "diff": 401,
+        "monthly_diff": 14533,
+        "monthly_diff_percent": 9.791741060901085
+      },
+      {
+        "value": 163511,
+        "timestp": "2025-07-08",
+        "is_interpolated": false,
+        "diff": 557,
+        "monthly_diff": 14939,
+        "monthly_diff_percent": 10.055057480548152
+      },
+      {
+        "value": 163791,
+        "timestp": "2025-07-09",
+        "is_interpolated": true,
+        "diff": 280,
+        "monthly_diff": 15068,
+        "monthly_diff_percent": 10.131586909892889
+      },
+      {
+        "value": 164072,
+        "timestp": "2025-07-10",
+        "is_interpolated": true,
+        "diff": 281,
+        "monthly_diff": 15198,
+        "monthly_diff_percent": 10.208632803578865
+      },
+      {
+        "value": 164352,
+        "timestp": "2025-07-11",
+        "is_interpolated": false,
+        "diff": 280,
+        "monthly_diff": 15343,
+        "monthly_diff_percent": 10.296693488312785
+      },
+      {
+        "value": 164599,
+        "timestp": "2025-07-12",
+        "is_interpolated": true,
+        "diff": 247,
+        "monthly_diff": 15456,
+        "monthly_diff_percent": 10.36320846435971
+      },
+      {
+        "value": 164845,
+        "timestp": "2025-07-13",
+        "is_interpolated": false,
+        "diff": 246,
+        "monthly_diff": 15487,
+        "monthly_diff_percent": 10.369046184335623
+      },
+      {
+        "value": 165030,
+        "timestp": "2025-07-14",
+        "is_interpolated": true,
+        "diff": 185,
+        "monthly_diff": 15458,
+        "monthly_diff_percent": 10.334822025512796
+      },
+      {
+        "value": 165214,
+        "timestp": "2025-07-15",
+        "is_interpolated": true,
+        "diff": 184,
+        "monthly_diff": 15569,
+        "monthly_diff_percent": 10.40395602926927
+      },
+      {
+        "value": 165399,
+        "timestp": "2025-07-16",
+        "is_interpolated": true,
+        "diff": 185,
+        "monthly_diff": 15629,
+        "monthly_diff_percent": 10.43533417907458
+      },
+      {
+        "value": 165583,
+        "timestp": "2025-07-17",
+        "is_interpolated": false,
+        "diff": 184,
+        "monthly_diff": 15683,
+        "monthly_diff_percent": 10.462308205470313
+      },
+      {
+        "value": 165821,
+        "timestp": "2025-07-18",
+        "is_interpolated": true,
+        "diff": 238,
+        "monthly_diff": 15692,
+        "monthly_diff_percent": 10.452344317220524
+      },
+      {
+        "value": 166059,
+        "timestp": "2025-07-19",
+        "is_interpolated": true,
+        "diff": 238,
+        "monthly_diff": 14716,
+        "monthly_diff_percent": 9.723607963367979
+      },
+      {
+        "value": 166297,
+        "timestp": "2025-07-20",
+        "is_interpolated": true,
+        "diff": 238,
+        "monthly_diff": 13740,
+        "monthly_diff_percent": 9.006469712959746
+      },
+      {
+        "value": 166535,
+        "timestp": "2025-07-21",
+        "is_interpolated": true,
+        "diff": 238,
+        "monthly_diff": 12858,
+        "monthly_diff_percent": 8.366899405896785
+      },
+      {
+        "value": 166773,
+        "timestp": "2025-07-22",
+        "is_interpolated": true,
+        "diff": 238,
+        "monthly_diff": 11977,
+        "monthly_diff_percent": 7.73728003307579
+      },
+      {
+        "value": 167011,
+        "timestp": "2025-07-23",
+        "is_interpolated": false,
+        "diff": 238,
+        "monthly_diff": 11095,
+        "monthly_diff_percent": 7.116011185510146
+      },
+      {
+        "value": 167203,
+        "timestp": "2025-07-24",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 10168,
+        "monthly_diff_percent": 6.47498965198841
+      },
+      {
+        "value": 167396,
+        "timestp": "2025-07-25",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 9524,
+        "monthly_diff_percent": 6.032735380561467
+      },
+      {
+        "value": 167588,
+        "timestp": "2025-07-26",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 9174,
+        "monthly_diff_percent": 5.791154822174808
+      },
+      {
+        "value": 167781,
+        "timestp": "2025-07-27",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 8658,
+        "monthly_diff_percent": 5.441073886238947
+      },
+      {
+        "value": 167973,
+        "timestp": "2025-07-28",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 8141,
+        "monthly_diff_percent": 5.093473146804144
+      },
+      {
+        "value": 168166,
+        "timestp": "2025-07-29",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 7770,
+        "monthly_diff_percent": 4.844260455372952
+      },
+      {
+        "value": 168358,
+        "timestp": "2025-07-30",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 7408,
+        "monthly_diff_percent": 4.602671637154396
+      },
+      {
+        "value": 168551,
+        "timestp": "2025-07-31",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 7200,
+        "monthly_diff_percent": 4.4623212747364445
+      },
+      {
+        "value": 168743,
+        "timestp": "2025-08-01",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 6991,
+        "monthly_diff_percent": 4.322048568178446
+      },
+      {
+        "value": 168935,
+        "timestp": "2025-08-02",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 6783,
+        "monthly_diff_percent": 4.183112141694212
+      },
+      {
+        "value": 169128,
+        "timestp": "2025-08-03",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 6575,
+        "monthly_diff_percent": 4.0448346077894595
+      },
+      {
+        "value": 169320,
+        "timestp": "2025-08-04",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 6366,
+        "monthly_diff_percent": 3.906623955226628
+      },
+      {
+        "value": 169513,
+        "timestp": "2025-08-05",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 6002,
+        "monthly_diff_percent": 3.6707010537517357
+      },
+      {
+        "value": 169705,
+        "timestp": "2025-08-06",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 5914,
+        "monthly_diff_percent": 3.610699000555586
+      },
+      {
+        "value": 169898,
+        "timestp": "2025-08-07",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 5826,
+        "monthly_diff_percent": 3.550880101418889
+      },
+      {
+        "value": 170090,
+        "timestp": "2025-08-08",
+        "is_interpolated": true,
+        "diff": 192,
+        "monthly_diff": 5738,
+        "monthly_diff_percent": 3.4912869937694704
+      },
+      {
+        "value": 170283,
+        "timestp": "2025-08-09",
+        "is_interpolated": true,
+        "diff": 193,
+        "monthly_diff": 5684,
+        "monthly_diff_percent": 3.453240906688376
+      },
+      {
+        "value": 170475,
+        "timestp": "2025-08-10",
+        "is_interpolated": false,
+        "diff": 192,
+        "monthly_diff": 5630,
+        "monthly_diff_percent": 3.4153295520033975
+      },
+      {
+        "value": 170659,
+        "timestp": "2025-08-11",
+        "is_interpolated": true,
+        "diff": 184,
+        "monthly_diff": 5629,
+        "monthly_diff_percent": 3.410894988789917
+      },
+      {
+        "value": 170843,
+        "timestp": "2025-08-12",
+        "is_interpolated": true,
+        "diff": 184,
+        "monthly_diff": 5629,
+        "monthly_diff_percent": 3.407096250923045
+      },
+      {
+        "value": 171028,
+        "timestp": "2025-08-13",
+        "is_interpolated": true,
+        "diff": 185,
+        "monthly_diff": 5629,
+        "monthly_diff_percent": 3.4032853886661956
+      },
+      {
+        "value": 171212,
+        "timestp": "2025-08-14",
+        "is_interpolated": true,
+        "diff": 184,
+        "monthly_diff": 5629,
+        "monthly_diff_percent": 3.399503572226618
+      },
+      {
+        "value": 171396,
+        "timestp": "2025-08-15",
+        "is_interpolated": false,
+        "diff": 184,
+        "monthly_diff": 5575,
+        "monthly_diff_percent": 3.3620590878115557
+      },
+      {
+        "value": 171568,
+        "timestp": "2025-08-16",
+        "is_interpolated": false,
+        "diff": 172,
+        "monthly_diff": 5509,
+        "monthly_diff_percent": 3.3174955889171924
+      },
+      {
+        "value": 171765,
+        "timestp": "2025-08-17",
+        "is_interpolated": false,
+        "diff": 197,
+        "monthly_diff": 5468,
+        "monthly_diff_percent": 3.2880929902523794
+      },
+      {
+        "value": 171966,
+        "timestp": "2025-08-18",
+        "is_interpolated": false,
+        "diff": 201,
+        "monthly_diff": 5431,
+        "monthly_diff_percent": 3.261176329300147
+      },
+      {
+        "value": 172060,
+        "timestp": "2025-08-19",
+        "is_interpolated": false,
+        "diff": 94,
+        "monthly_diff": 5287,
+        "monthly_diff_percent": 3.1701774268017004
+      },
+      {
+        "value": 172152,
+        "timestp": "2025-08-20",
+        "is_interpolated": false,
+        "diff": 92,
+        "monthly_diff": 5141,
+        "monthly_diff_percent": 3.0782403554256903
+      },
+      {
+        "value": 172304,
+        "timestp": "2025-08-21",
+        "is_interpolated": false,
+        "diff": 152,
+        "monthly_diff": 5101,
+        "monthly_diff_percent": 3.050782581652243
+      },
+      {
+        "value": 172472,
+        "timestp": "2025-08-22",
+        "is_interpolated": false,
+        "diff": 168,
+        "monthly_diff": 5076,
+        "monthly_diff_percent": 3.032330521637315
+      },
+      {
+        "value": 172730,
+        "timestp": "2025-08-23",
+        "is_interpolated": false,
+        "diff": 258,
+        "monthly_diff": 5142,
+        "monthly_diff_percent": 3.0682387760460177
+      },
+      {
+        "value": 172972,
+        "timestp": "2025-08-24",
+        "is_interpolated": false,
+        "diff": 242,
+        "monthly_diff": 5191,
+        "monthly_diff_percent": 3.0939140903916416
+      },
+      {
+        "value": 173048,
+        "timestp": "2025-08-25",
+        "is_interpolated": false,
+        "diff": 76,
+        "monthly_diff": 5075,
+        "monthly_diff_percent": 3.0213189024426548
+      },
+      {
+        "value": 173249,
+        "timestp": "2025-08-26",
+        "is_interpolated": false,
+        "diff": 201,
+        "monthly_diff": 5083,
+        "monthly_diff_percent": 3.022608612918188
+      },
+      {
+        "value": 173357,
+        "timestp": "2025-08-27",
+        "is_interpolated": false,
+        "diff": 108,
+        "monthly_diff": 4999,
+        "monthly_diff_percent": 2.9692678696587036
+      },
+      {
+        "value": 173431,
+        "timestp": "2025-08-28",
+        "is_interpolated": false,
+        "diff": 74,
+        "monthly_diff": 4880,
+        "monthly_diff_percent": 2.895266121233336
+      },
+      {
+        "value": 173809,
+        "timestp": "2025-08-29",
+        "is_interpolated": false,
+        "diff": 378,
+        "monthly_diff": 5066,
+        "monthly_diff_percent": 3.002198609720107
+      },
+      {
+        "value": 173857,
+        "timestp": "2025-08-30",
+        "is_interpolated": true,
+        "diff": 48,
+        "monthly_diff": 4922,
+        "monthly_diff_percent": 2.91354663036079
+      },
+      {
+        "value": 173904,
+        "timestp": "2025-08-31",
+        "is_interpolated": false,
+        "diff": 47,
+        "monthly_diff": 4776,
+        "monthly_diff_percent": 2.823896693628494
+      },
+      {
+        "value": 174177,
+        "timestp": "2025-09-01",
+        "is_interpolated": true,
+        "diff": 273,
+        "monthly_diff": 4857,
+        "monthly_diff_percent": 2.868532955350815
+      },
+      {
+        "value": 174449,
+        "timestp": "2025-09-02",
+        "is_interpolated": false,
+        "diff": 272,
+        "monthly_diff": 4936,
+        "monthly_diff_percent": 2.9118710659359457
+      },
+      {
+        "value": 174618,
+        "timestp": "2025-09-03",
+        "is_interpolated": false,
+        "diff": 169,
+        "monthly_diff": 4913,
+        "monthly_diff_percent": 2.895023717627648
+      },
+      {
+        "value": 174698,
+        "timestp": "2025-09-04",
+        "is_interpolated": false,
+        "diff": 80,
+        "monthly_diff": 4800,
+        "monthly_diff_percent": 2.8252245464926014
+      },
+      {
+        "value": 174965,
+        "timestp": "2025-09-05",
+        "is_interpolated": false,
+        "diff": 267,
+        "monthly_diff": 4875,
+        "monthly_diff_percent": 2.8661296960432714
+      },
+      {
+        "value": 175167,
+        "timestp": "2025-09-06",
+        "is_interpolated": false,
+        "diff": 202,
+        "monthly_diff": 4884,
+        "monthly_diff_percent": 2.8681665227885347
+      },
+      {
+        "value": 175258,
+        "timestp": "2025-09-07",
+        "is_interpolated": false,
+        "diff": 91,
+        "monthly_diff": 4783,
+        "monthly_diff_percent": 2.8056899838686022
+      },
+      {
+        "value": 175445,
+        "timestp": "2025-09-08",
+        "is_interpolated": true,
+        "diff": 187,
+        "monthly_diff": 4786,
+        "monthly_diff_percent": 2.8044228549329366
+      },
+      {
+        "value": 175631,
+        "timestp": "2025-09-09",
+        "is_interpolated": false,
+        "diff": 186,
+        "monthly_diff": 4788,
+        "monthly_diff_percent": 2.802573122691594
+      },
+      {
+        "value": 178060,
+        "timestp": "2025-09-10",
+        "is_interpolated": true,
+        "diff": 2429,
+        "monthly_diff": 7032,
+        "monthly_diff_percent": 4.111607456089061
+      },
+      {
+        "value": 180488,
+        "timestp": "2025-09-11",
+        "is_interpolated": true,
+        "diff": 2428,
+        "monthly_diff": 9276,
+        "monthly_diff_percent": 5.417844543606757
+      },
+      {
+        "value": 182917,
+        "timestp": "2025-09-12",
+        "is_interpolated": false,
+        "diff": 2429,
+        "monthly_diff": 11521,
+        "monthly_diff_percent": 6.72186048682583
+      },
+      {
+        "value": 185868,
+        "timestp": "2025-09-13",
+        "is_interpolated": false,
+        "diff": 2951,
+        "monthly_diff": 14300,
+        "monthly_diff_percent": 8.334887624731884
+      },
+      {
+        "value": 189538,
+        "timestp": "2025-09-15",
+        "is_interpolated": false,
+        "diff": 3670,
+        "monthly_diff": 17572,
+        "monthly_diff_percent": 10.21829896607469
+      },
+      {
+        "value": 190322,
+        "timestp": "2025-09-16",
+        "is_interpolated": false,
+        "diff": 784,
+        "monthly_diff": 18262,
+        "monthly_diff_percent": 10.613739393234917
+      },
+      {
+        "value": 191145,
+        "timestp": "2025-09-17",
+        "is_interpolated": false,
+        "diff": 823,
+        "monthly_diff": 18993,
+        "monthly_diff_percent": 11.032692039592916
+      },
+      {
+        "value": 191574,
+        "timestp": "2025-09-18",
+        "is_interpolated": false,
+        "diff": 429,
+        "monthly_diff": 19270,
+        "monthly_diff_percent": 11.183721794038444
+      },
+      {
+        "value": 193263,
+        "timestp": "2025-09-19",
+        "is_interpolated": false,
+        "diff": 1689,
+        "monthly_diff": 20791,
+        "monthly_diff_percent": 12.054710329792663
+      },
+      {
+        "value": 193548,
+        "timestp": "2025-09-20",
+        "is_interpolated": true,
+        "diff": 285,
+        "monthly_diff": 20818,
+        "monthly_diff_percent": 12.05233601574712
+      },
+      {
+        "value": 193833,
+        "timestp": "2025-09-21",
+        "is_interpolated": false,
+        "diff": 285,
+        "monthly_diff": 20861,
+        "monthly_diff_percent": 12.060333464375738
+      },
+      {
+        "value": 194087,
+        "timestp": "2025-09-22",
+        "is_interpolated": false,
+        "diff": 254,
+        "monthly_diff": 21039,
+        "monthly_diff_percent": 12.157898386574823
+      },
+      {
+        "value": 194707,
+        "timestp": "2025-09-23",
+        "is_interpolated": false,
+        "diff": 620,
+        "monthly_diff": 21458,
+        "monthly_diff_percent": 12.385641475564073
+      },
+      {
+        "value": 195089,
+        "timestp": "2025-09-24",
+        "is_interpolated": true,
+        "diff": 382,
+        "monthly_diff": 21732,
+        "monthly_diff_percent": 12.535980664178545
+      },
+      {
+        "value": 195470,
+        "timestp": "2025-09-25",
+        "is_interpolated": false,
+        "diff": 381,
+        "monthly_diff": 22039,
+        "monthly_diff_percent": 12.70764742174121
+      },
+      {
+        "value": 195898,
+        "timestp": "2025-09-26",
+        "is_interpolated": true,
+        "diff": 428,
+        "monthly_diff": 22089,
+        "monthly_diff_percent": 12.708778026454326
+      },
+      {
+        "value": 196327,
+        "timestp": "2025-09-27",
+        "is_interpolated": true,
+        "diff": 429,
+        "monthly_diff": 22470,
+        "monthly_diff_percent": 12.924414892699174
+      },
+      {
+        "value": 196755,
+        "timestp": "2025-09-28",
+        "is_interpolated": false,
+        "diff": 428,
+        "monthly_diff": 22851,
+        "monthly_diff_percent": 13.140008280430582
+      },
+      {
+        "value": 197223,
+        "timestp": "2025-09-29",
+        "is_interpolated": false,
+        "diff": 468,
+        "monthly_diff": 23046,
+        "monthly_diff_percent": 13.231368091079766
+      },
+      {
+        "value": 197507,
+        "timestp": "2025-09-30",
+        "is_interpolated": true,
+        "diff": 284,
+        "monthly_diff": 23058,
+        "monthly_diff_percent": 13.217616610012096
+      },
+      {
+        "value": 197792,
+        "timestp": "2025-10-01",
+        "is_interpolated": true,
+        "diff": 285,
+        "monthly_diff": 23174,
+        "monthly_diff_percent": 13.271254967987264
+      },
+      {
+        "value": 198076,
+        "timestp": "2025-10-02",
+        "is_interpolated": true,
+        "diff": 284,
+        "monthly_diff": 23378,
+        "monthly_diff_percent": 13.38195056611982
+      },
+      {
+        "value": 198360,
+        "timestp": "2025-10-03",
+        "is_interpolated": false,
+        "diff": 284,
+        "monthly_diff": 23395,
+        "monthly_diff_percent": 13.37124567770697
+      },
+      {
+        "value": 198714,
+        "timestp": "2025-10-04",
+        "is_interpolated": true,
+        "diff": 354,
+        "monthly_diff": 23547,
+        "monthly_diff_percent": 13.442600489818288
+      },
+      {
+        "value": 199067,
+        "timestp": "2025-10-05",
+        "is_interpolated": false,
+        "diff": 353,
+        "monthly_diff": 23809,
+        "monthly_diff_percent": 13.585114516883682
+      },
+      {
+        "value": 199299,
+        "timestp": "2025-10-06",
+        "is_interpolated": true,
+        "diff": 232,
+        "monthly_diff": 23854,
+        "monthly_diff_percent": 13.596283735643649
+      },
+      {
+        "value": 199530,
+        "timestp": "2025-10-07",
+        "is_interpolated": false,
+        "diff": 231,
+        "monthly_diff": 23899,
+        "monthly_diff_percent": 13.60750664745973
+      },
+      {
+        "value": 199762,
+        "timestp": "2025-10-08",
+        "is_interpolated": false,
+        "diff": 232,
+        "monthly_diff": 21702,
+        "monthly_diff_percent": 12.18802650791868
+      },
+      {
+        "value": 529187,
+        "timestp": "2025-10-09",
+        "is_interpolated": true,
+        "diff": 329425,
+        "monthly_diff": 348699,
+        "monthly_diff_percent": 193.1978857320154
+      },
+      {
+        "value": 858612,
+        "timestp": "2025-10-10",
+        "is_interpolated": true,
+        "diff": 329425,
+        "monthly_diff": 675695,
+        "monthly_diff_percent": 369.3997824149751
+      },
+      {
+        "value": 1188037,
+        "timestp": "2025-10-11",
+        "is_interpolated": false,
+        "diff": 329425,
+        "monthly_diff": 1002169,
+        "monthly_diff_percent": 539.1831837648224
+      },
+      {
+        "value": 1189370,
+        "timestp": "2025-10-12",
+        "is_interpolated": true,
+        "diff": 1333
+      },
+      {
+        "value": 1190703,
+        "timestp": "2025-10-13",
+        "is_interpolated": true,
+        "diff": 1333,
+        "monthly_diff": 1001165,
+        "monthly_diff_percent": 528.2133398052106
+      },
+      {
+        "value": 1192037,
+        "timestp": "2025-10-14",
+        "is_interpolated": true,
+        "diff": 1334,
+        "monthly_diff": 1001715,
+        "monthly_diff_percent": 526.3264362501445
+      },
+      {
+        "value": 1193370,
+        "timestp": "2025-10-15",
+        "is_interpolated": true,
+        "diff": 1333,
+        "monthly_diff": 1002225,
+        "monthly_diff_percent": 524.3270815349604
+      },
+      {
+        "value": 1194703,
+        "timestp": "2025-10-16",
+        "is_interpolated": true,
+        "diff": 1333,
+        "monthly_diff": 1003129,
+        "monthly_diff_percent": 523.6248133880381
+      },
+      {
+        "value": 1196036,
+        "timestp": "2025-10-17",
+        "is_interpolated": true,
+        "diff": 1333,
+        "monthly_diff": 1002773,
+        "monthly_diff_percent": 518.8644489633298
+      },
+      {
+        "value": 1197370,
+        "timestp": "2025-10-18",
+        "is_interpolated": true,
+        "diff": 1334,
+        "monthly_diff": 1003822,
+        "monthly_diff_percent": 518.6424039514745
+      },
+      {
+        "value": 1198703,
+        "timestp": "2025-10-19",
+        "is_interpolated": true,
+        "diff": 1333,
+        "monthly_diff": 1004870,
+        "monthly_diff_percent": 518.4204959939742
+      },
+      {
+        "value": 1200036,
+        "timestp": "2025-10-20",
+        "is_interpolated": false,
+        "diff": 1333,
+        "monthly_diff": 1005949,
+        "monthly_diff_percent": 518.297979771958
+      },
+      {
+        "value": 1200870,
+        "timestp": "2025-10-21",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1006163,
+        "monthly_diff_percent": 516.7574868905587
+      },
+      {
+        "value": 1201704,
+        "timestp": "2025-10-22",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1006615,
+        "monthly_diff_percent": 515.9773231704504
+      },
+      {
+        "value": 1202538,
+        "timestp": "2025-10-23",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1007068,
+        "monthly_diff_percent": 515.2033560137105
+      },
+      {
+        "value": 1203373,
+        "timestp": "2025-10-24",
+        "is_interpolated": true,
+        "diff": 835,
+        "monthly_diff": 1007475,
+        "monthly_diff_percent": 514.285495512971
+      },
+      {
+        "value": 1204207,
+        "timestp": "2025-10-25",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1007880,
+        "monthly_diff_percent": 513.3680033821124
+      },
+      {
+        "value": 1205041,
+        "timestp": "2025-10-26",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1008286,
+        "monthly_diff_percent": 512.457624965058
+      },
+      {
+        "value": 1205875,
+        "timestp": "2025-10-27",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1008652,
+        "monthly_diff_percent": 511.42716620272483
+      },
+      {
+        "value": 1206709,
+        "timestp": "2025-10-28",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1009202,
+        "monthly_diff_percent": 510.9702440926144
+      },
+      {
+        "value": 1207543,
+        "timestp": "2025-10-29",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1009751,
+        "monthly_diff_percent": 510.51154748422584
+      },
+      {
+        "value": 1208377,
+        "timestp": "2025-10-30",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1010301,
+        "monthly_diff_percent": 510.05725075223654
+      },
+      {
+        "value": 1209211,
+        "timestp": "2025-10-31",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1010851,
+        "monthly_diff_percent": 509.60425489009884
+      },
+      {
+        "value": 1210046,
+        "timestp": "2025-11-01",
+        "is_interpolated": true,
+        "diff": 835,
+        "monthly_diff": 1011332,
+        "monthly_diff_percent": 508.9384743903298
+      },
+      {
+        "value": 1210880,
+        "timestp": "2025-11-02",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1011813,
+        "monthly_diff_percent": 508.2776150743217
+      },
+      {
+        "value": 1211714,
+        "timestp": "2025-11-03",
+        "is_interpolated": true,
+        "diff": 834,
+        "monthly_diff": 1012415,
+        "monthly_diff_percent": 507.98799793275424
+      },
+      {
+        "value": 1212548,
+        "timestp": "2025-11-04",
+        "is_interpolated": false,
+        "diff": 834,
+        "monthly_diff": 1013018,
+        "monthly_diff_percent": 507.7020999348469
+      },
+      {
+        "value": 1212903,
+        "timestp": "2025-11-05",
+        "is_interpolated": false,
+        "diff": 355,
+        "monthly_diff": 1013141,
+        "monthly_diff_percent": 507.17403710415397
+      },
+      {
+        "value": 1213885,
+        "timestp": "2025-11-06",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 684698,
+        "monthly_diff_percent": 129.38677631914618
+      },
+      {
+        "value": 1214868,
+        "timestp": "2025-11-07",
+        "is_interpolated": true,
+        "diff": 983,
+        "monthly_diff": 356256,
+        "monthly_diff_percent": 41.49208257047421
+      },
+      {
+        "value": 1215850,
+        "timestp": "2025-11-08",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 27813,
+        "monthly_diff_percent": 2.341088703466306
+      },
+      {
+        "value": 1216833,
+        "timestp": "2025-11-09",
+        "is_interpolated": true,
+        "diff": 983,
+        "monthly_diff": 27463,
+        "monthly_diff_percent": 2.3090375576986135
+      },
+      {
+        "value": 1217815,
+        "timestp": "2025-11-10",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 27112,
+        "monthly_diff_percent": 2.276974190877154
+      },
+      {
+        "value": 1218797,
+        "timestp": "2025-11-11",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 26760,
+        "monthly_diff_percent": 2.2448967607549095
+      },
+      {
+        "value": 1219780,
+        "timestp": "2025-11-12",
+        "is_interpolated": true,
+        "diff": 983,
+        "monthly_diff": 26410,
+        "monthly_diff_percent": 2.213060492554698
+      },
+      {
+        "value": 1220762,
+        "timestp": "2025-11-13",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 26059,
+        "monthly_diff_percent": 2.1812115647152472
+      },
+      {
+        "value": 1221745,
+        "timestp": "2025-11-14",
+        "is_interpolated": true,
+        "diff": 983,
+        "monthly_diff": 25709,
+        "monthly_diff_percent": 2.149517238611547
+      },
+      {
+        "value": 1222727,
+        "timestp": "2025-11-15",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 25357,
+        "monthly_diff_percent": 2.117724679923499
+      },
+      {
+        "value": 1223709,
+        "timestp": "2025-11-16",
+        "is_interpolated": true,
+        "diff": 982,
+        "monthly_diff": 25006,
+        "monthly_diff_percent": 2.086088046830616
+      },
+      {
+        "value": 1224692,
+        "timestp": "2025-11-17",
+        "is_interpolated": true,
+        "diff": 983,
+        "monthly_diff": 24656,
+        "monthly_diff_percent": 2.054605028515811
+      },
+      {
+        "value": 1225674,
+        "timestp": "2025-11-18",
+        "is_interpolated": false,
+        "diff": 982,
+        "monthly_diff": 24804,
+        "monthly_diff_percent": 2.065502510679757
+      },
+      {
+        "value": 1226083,
+        "timestp": "2025-11-19",
+        "is_interpolated": false,
+        "diff": 409,
+        "monthly_diff": 24379,
+        "monthly_diff_percent": 2.0287025756758736
+      },
+      {
+        "value": 1227838,
+        "timestp": "2025-11-20",
+        "is_interpolated": true,
+        "diff": 1755,
+        "monthly_diff": 25300,
+        "monthly_diff_percent": 2.103883619478137
+      },
+      {
+        "value": 1229592,
+        "timestp": "2025-11-21",
+        "is_interpolated": true,
+        "diff": 1754,
+        "monthly_diff": 26219,
+        "monthly_diff_percent": 2.178792444237988
+      },
+      {
+        "value": 1231347,
+        "timestp": "2025-11-22",
+        "is_interpolated": true,
+        "diff": 1755,
+        "monthly_diff": 27140,
+        "monthly_diff_percent": 2.253765341008647
+      },
+      {
+        "value": 1233101,
+        "timestp": "2025-11-23",
+        "is_interpolated": true,
+        "diff": 1754,
+        "monthly_diff": 28060,
+        "monthly_diff_percent": 2.3285514766717483
+      },
+      {
+        "value": 1234856,
+        "timestp": "2025-11-24",
+        "is_interpolated": true,
+        "diff": 1755,
+        "monthly_diff": 28981,
+        "monthly_diff_percent": 2.403317093396911
+      },
+      {
+        "value": 1236610,
+        "timestp": "2025-11-25",
+        "is_interpolated": true,
+        "diff": 1754,
+        "monthly_diff": 29901,
+        "monthly_diff_percent": 2.4778964936865475
+      },
+      {
+        "value": 1238365,
+        "timestp": "2025-11-26",
+        "is_interpolated": true,
+        "diff": 1755,
+        "monthly_diff": 30822,
+        "monthly_diff_percent": 2.552455688948551
+      },
+      {
+        "value": 1240119,
+        "timestp": "2025-11-27",
+        "is_interpolated": false,
+        "diff": 1754,
+        "monthly_diff": 31742,
+        "monthly_diff_percent": 2.626829209758213
+      },
+      {
+        "value": 1240514,
+        "timestp": "2025-11-28",
+        "is_interpolated": true,
+        "diff": 395,
+        "monthly_diff": 31303,
+        "monthly_diff_percent": 2.588712805292046
+      },
+      {
+        "value": 1240909,
+        "timestp": "2025-11-29",
+        "is_interpolated": true,
+        "diff": 395,
+        "monthly_diff": 30863,
+        "monthly_diff_percent": 2.5505641934273573
+      },
+      {
+        "value": 1241304,
+        "timestp": "2025-11-30",
+        "is_interpolated": true,
+        "diff": 395,
+        "monthly_diff": 30424,
+        "monthly_diff_percent": 2.5125528541226214
+      },
+      {
+        "value": 1241699,
+        "timestp": "2025-12-01",
+        "is_interpolated": false,
+        "diff": 395,
+        "monthly_diff": 29985,
+        "monthly_diff_percent": 2.4745938398004808
+      },
+      {
+        "value": 1244985,
+        "timestp": "2025-12-02",
+        "is_interpolated": true,
+        "diff": 3286,
+        "monthly_diff": 32437,
+        "monthly_diff_percent": 2.6751105935600075
+      },
+      {
+        "value": 1248271,
+        "timestp": "2025-12-03",
+        "is_interpolated": true,
+        "diff": 3286,
+        "monthly_diff": 35368,
+        "monthly_diff_percent": 2.9159792662727355
+      },
+      {
+        "value": 1251557,
+        "timestp": "2025-12-04",
+        "is_interpolated": true,
+        "diff": 3286,
+        "monthly_diff": 37672,
+        "monthly_diff_percent": 3.103424129962888
+      },
+      {
+        "value": 1254843,
+        "timestp": "2025-12-05",
+        "is_interpolated": false,
+        "diff": 3286,
+        "monthly_diff": 39975,
+        "monthly_diff_percent": 3.2904809411392844
+      },
+      {
+        "value": 1256141,
+        "timestp": "2025-12-06",
+        "is_interpolated": true,
+        "diff": 1298,
+        "monthly_diff": 40291,
+        "monthly_diff_percent": 3.3138133815848994
+      },
+      {
+        "value": 1257438,
+        "timestp": "2025-12-07",
+        "is_interpolated": true,
+        "diff": 1297,
+        "monthly_diff": 40605,
+        "monthly_diff_percent": 3.336941059290798
+      },
+      {
+        "value": 1258736,
+        "timestp": "2025-12-08",
+        "is_interpolated": true,
+        "diff": 1298,
+        "monthly_diff": 40921,
+        "monthly_diff_percent": 3.3601983880967143
+      },
+      {
+        "value": 1260034,
+        "timestp": "2025-12-09",
+        "is_interpolated": true,
+        "diff": 1298,
+        "monthly_diff": 41237,
+        "monthly_diff_percent": 3.383418239460714
+      },
+      {
+        "value": 1261332,
+        "timestp": "2025-12-10",
+        "is_interpolated": true,
+        "diff": 1298,
+        "monthly_diff": 41552,
+        "monthly_diff_percent": 3.4065159291019693
+      },
+      {
+        "value": 1262629,
+        "timestp": "2025-12-11",
+        "is_interpolated": true,
+        "diff": 1297,
+        "monthly_diff": 41867,
+        "monthly_diff_percent": 3.429579230021904
+      },
+      {
+        "value": 1263927,
+        "timestp": "2025-12-12",
+        "is_interpolated": true,
+        "diff": 1298,
+        "monthly_diff": 42182,
+        "monthly_diff_percent": 3.4526026298450168
+      },
+      {
+        "value": 1265225,
+        "timestp": "2025-12-13",
+        "is_interpolated": true,
+        "diff": 1298,
+        "monthly_diff": 42498,
+        "monthly_diff_percent": 3.4756736376967226
+      },
+      {
+        "value": 1266522,
+        "timestp": "2025-12-14",
+        "is_interpolated": true,
+        "diff": 1297,
+        "monthly_diff": 42813,
+        "monthly_diff_percent": 3.498625898804373
+      },
+      {
+        "value": 1267820,
+        "timestp": "2025-12-15",
+        "is_interpolated": false,
+        "diff": 1298,
+        "monthly_diff": 43128,
+        "monthly_diff_percent": 3.5215384766128954
+      },
+      {
+        "value": 1269653,
+        "timestp": "2025-12-16",
+        "is_interpolated": true,
+        "diff": 1833,
+        "monthly_diff": 43979,
+        "monthly_diff_percent": 3.5881482351750953
+      },
+      {
+        "value": 1271487,
+        "timestp": "2025-12-17",
+        "is_interpolated": true,
+        "diff": 1834,
+        "monthly_diff": 45404,
+        "monthly_diff_percent": 3.703175070529483
+      },
+      {
+        "value": 1273320,
+        "timestp": "2025-12-18",
+        "is_interpolated": true,
+        "diff": 1833,
+        "monthly_diff": 45482,
+        "monthly_diff_percent": 3.704234597723804
+      },
+      {
+        "value": 1275153,
+        "timestp": "2025-12-19",
+        "is_interpolated": true,
+        "diff": 1833,
+        "monthly_diff": 45561,
+        "monthly_diff_percent": 3.7053754416099
+      },
+      {
+        "value": 1276986,
+        "timestp": "2025-12-20",
+        "is_interpolated": true,
+        "diff": 1833,
+        "monthly_diff": 45639,
+        "monthly_diff_percent": 3.7064288133239454
+      },
+      {
+        "value": 1278820,
+        "timestp": "2025-12-21",
+        "is_interpolated": true,
+        "diff": 1834,
+        "monthly_diff": 45719,
+        "monthly_diff_percent": 3.7076443859829813
+      },
+      {
+        "value": 1280653,
+        "timestp": "2025-12-22",
+        "is_interpolated": false,
+        "diff": 1833,
+        "monthly_diff": 45797,
+        "monthly_diff_percent": 3.7086915397422855
+      },
+      {
+        "value": 1281849,
+        "timestp": "2025-12-23",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 45239,
+        "monthly_diff_percent": 3.6583077930794667
+      },
+      {
+        "value": 1283045,
+        "timestp": "2025-12-24",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 44680,
+        "monthly_diff_percent": 3.6079831067577004
+      },
+      {
+        "value": 1284241,
+        "timestp": "2025-12-25",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 44122,
+        "monthly_diff_percent": 3.5578843643231015
+      },
+      {
+        "value": 1285437,
+        "timestp": "2025-12-26",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 44923,
+        "monthly_diff_percent": 3.621321484481433
+      },
+      {
+        "value": 1286633,
+        "timestp": "2025-12-27",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 45724,
+        "monthly_diff_percent": 3.6847182186606755
+      },
+      {
+        "value": 1287829,
+        "timestp": "2025-12-28",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 46525,
+        "monthly_diff_percent": 3.7480746054149505
+      },
+      {
+        "value": 1289025,
+        "timestp": "2025-12-29",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 47326,
+        "monthly_diff_percent": 3.8113906832493223
+      },
+      {
+        "value": 1290221,
+        "timestp": "2025-12-30",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 45236,
+        "monthly_diff_percent": 3.6334574312140306
+      },
+      {
+        "value": 1291417,
+        "timestp": "2025-12-31",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 43146,
+        "monthly_diff_percent": 3.456460976823142
+      },
+      {
+        "value": 1292613,
+        "timestp": "2026-01-01",
+        "is_interpolated": true,
+        "diff": 1196,
+        "monthly_diff": 41056,
+        "monthly_diff_percent": 3.2803939413067082
+      },
+      {
+        "value": 1293809,
+        "timestp": "2026-01-02",
+        "is_interpolated": false,
+        "diff": 1196,
+        "monthly_diff": 38966,
+        "monthly_diff_percent": 3.1052490231845735
+      },
+      {
+        "value": 1294775,
+        "timestp": "2026-01-03",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 38634,
+        "monthly_diff_percent": 3.0756101424919655
+      },
+      {
+        "value": 1295742,
+        "timestp": "2026-01-04",
+        "is_interpolated": true,
+        "diff": 967,
+        "monthly_diff": 38304,
+        "monthly_diff_percent": 3.046193927652894
+      },
+      {
+        "value": 1296708,
+        "timestp": "2026-01-05",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 37972,
+        "monthly_diff_percent": 3.016677047450776
+      },
+      {
+        "value": 1297675,
+        "timestp": "2026-01-06",
+        "is_interpolated": true,
+        "diff": 967,
+        "monthly_diff": 37641,
+        "monthly_diff_percent": 2.9873003426891658
+      },
+      {
+        "value": 1298641,
+        "timestp": "2026-01-07",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 37309,
+        "monthly_diff_percent": 2.9579048180812033
+      },
+      {
+        "value": 1299608,
+        "timestp": "2026-01-08",
+        "is_interpolated": true,
+        "diff": 967,
+        "monthly_diff": 36979,
+        "monthly_diff_percent": 2.9287304505123832
+      },
+      {
+        "value": 1300574,
+        "timestp": "2026-01-09",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 36647,
+        "monthly_diff_percent": 2.899455427409969
+      },
+      {
+        "value": 1301540,
+        "timestp": "2026-01-10",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 36315,
+        "monthly_diff_percent": 2.870240471062459
+      },
+      {
+        "value": 1302507,
+        "timestp": "2026-01-11",
+        "is_interpolated": true,
+        "diff": 967,
+        "monthly_diff": 35985,
+        "monthly_diff_percent": 2.8412455527815546
+      },
+      {
+        "value": 1303473,
+        "timestp": "2026-01-12",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 35653,
+        "monthly_diff_percent": 2.812149989746178
+      },
+      {
+        "value": 1304440,
+        "timestp": "2026-01-13",
+        "is_interpolated": true,
+        "diff": 967,
+        "monthly_diff": 34787,
+        "monthly_diff_percent": 2.739882471824979
+      },
+      {
+        "value": 1305406,
+        "timestp": "2026-01-14",
+        "is_interpolated": true,
+        "diff": 966,
+        "monthly_diff": 33919,
+        "monthly_diff_percent": 2.667663924208427
+      },
+      {
+        "value": 1306373,
+        "timestp": "2026-01-15",
+        "is_interpolated": true,
+        "diff": 967,
+        "monthly_diff": 33053,
+        "monthly_diff_percent": 2.5958125215970846
+      },
+      {
+        "value": 1307339,
+        "timestp": "2026-01-16",
+        "is_interpolated": false,
+        "diff": 966,
+        "monthly_diff": 32186,
+        "monthly_diff_percent": 2.524089266150807
+      },
+      {
+        "value": 1307569,
+        "timestp": "2026-01-17",
+        "is_interpolated": false,
+        "diff": 230,
+        "monthly_diff": 30583,
+        "monthly_diff_percent": 2.3949362013365847
+      },
+      {
+        "value": 1308406,
+        "timestp": "2026-01-18",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 29586,
+        "monthly_diff_percent": 2.3135390438060086
+      },
+      {
+        "value": 1309242,
+        "timestp": "2026-01-19",
+        "is_interpolated": true,
+        "diff": 836,
+        "monthly_diff": 28589,
+        "monthly_diff_percent": 2.2323767640414696
+      },
+      {
+        "value": 1310079,
+        "timestp": "2026-01-20",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 28230,
+        "monthly_diff_percent": 2.2022874769181082
+      },
+      {
+        "value": 1310916,
+        "timestp": "2026-01-21",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 27871,
+        "monthly_diff_percent": 2.1722542857031515
+      },
+      {
+        "value": 1311752,
+        "timestp": "2026-01-22",
+        "is_interpolated": true,
+        "diff": 836,
+        "monthly_diff": 27511,
+        "monthly_diff_percent": 2.1421991666673157
+      },
+      {
+        "value": 1312589,
+        "timestp": "2026-01-23",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 27152,
+        "monthly_diff_percent": 2.11227777012798
+      },
+      {
+        "value": 1313426,
+        "timestp": "2026-01-24",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 26793,
+        "monthly_diff_percent": 2.082412000935776
+      },
+      {
+        "value": 1314262,
+        "timestp": "2026-01-25",
+        "is_interpolated": true,
+        "diff": 836,
+        "monthly_diff": 26433,
+        "monthly_diff_percent": 2.0525240540475482
+      },
+      {
+        "value": 1315099,
+        "timestp": "2026-01-26",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 26074,
+        "monthly_diff_percent": 2.022769147223677
+      },
+      {
+        "value": 1315936,
+        "timestp": "2026-01-27",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 25715,
+        "monthly_diff_percent": 1.9930694043888606
+      },
+      {
+        "value": 1316772,
+        "timestp": "2026-01-28",
+        "is_interpolated": true,
+        "diff": 836,
+        "monthly_diff": 25355,
+        "monthly_diff_percent": 1.9633472379564463
+      },
+      {
+        "value": 1317609,
+        "timestp": "2026-01-29",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 24996,
+        "monthly_diff_percent": 1.9337574355201441
+      },
+      {
+        "value": 1318446,
+        "timestp": "2026-01-30",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 24637,
+        "monthly_diff_percent": 1.9042223388459967
+      },
+      {
+        "value": 1319282,
+        "timestp": "2026-01-31",
+        "is_interpolated": true,
+        "diff": 836,
+        "monthly_diff": 24507,
+        "monthly_diff_percent": 1.892761290571721
+      },
+      {
+        "value": 1320119,
+        "timestp": "2026-02-01",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 24377,
+        "monthly_diff_percent": 1.8813158792413922
+      },
+      {
+        "value": 1320956,
+        "timestp": "2026-02-02",
+        "is_interpolated": true,
+        "diff": 837,
+        "monthly_diff": 24248,
+        "monthly_diff_percent": 1.8699660987670317
+      },
+      {
+        "value": 1321792,
+        "timestp": "2026-02-03",
+        "is_interpolated": true,
+        "diff": 836,
+        "monthly_diff": 24117,
+        "monthly_diff_percent": 1.8584776619723737
+      },
+      {
+        "value": 1322629,
+        "timestp": "2026-02-04",
+        "is_interpolated": false,
+        "diff": 837,
+        "monthly_diff": 23988,
+        "monthly_diff_percent": 1.8471617637206894
+      },
+      {
+        "value": 1323438,
+        "timestp": "2026-02-05",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23830,
+        "monthly_diff_percent": 1.8336298329957958
+      },
+      {
+        "value": 1324247,
+        "timestp": "2026-02-06",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23673,
+        "monthly_diff_percent": 1.8201963133201189
+      },
+      {
+        "value": 1325056,
+        "timestp": "2026-02-07",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23516,
+        "monthly_diff_percent": 1.8067827342993683
+      },
+      {
+        "value": 1325865,
+        "timestp": "2026-02-08",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23358,
+        "monthly_diff_percent": 1.7933108996727083
+      },
+      {
+        "value": 1326674,
+        "timestp": "2026-02-09",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23201,
+        "monthly_diff_percent": 1.779937137171234
+      },
+      {
+        "value": 1327483,
+        "timestp": "2026-02-10",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23043,
+        "monthly_diff_percent": 1.7665051669682008
+      },
+      {
+        "value": 1328291,
+        "timestp": "2026-02-11",
+        "is_interpolated": true,
+        "diff": 808,
+        "monthly_diff": 22885,
+        "monthly_diff_percent": 1.7530944395843133
+      },
+      {
+        "value": 1329100,
+        "timestp": "2026-02-12",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22727,
+        "monthly_diff_percent": 1.73970221368629
+      },
+      {
+        "value": 1329909,
+        "timestp": "2026-02-13",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22570,
+        "monthly_diff_percent": 1.7264076111857751
+      },
+      {
+        "value": 1330718,
+        "timestp": "2026-02-14",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23149,
+        "monthly_diff_percent": 1.7703845839110592
+      },
+      {
+        "value": 1331527,
+        "timestp": "2026-02-15",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23121,
+        "monthly_diff_percent": 1.767112043203715
+      },
+      {
+        "value": 1332336,
+        "timestp": "2026-02-16",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23094,
+        "monthly_diff_percent": 1.763921414070126
+      },
+      {
+        "value": 1333145,
+        "timestp": "2026-02-17",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23066,
+        "monthly_diff_percent": 1.760657181742475
+      },
+      {
+        "value": 1333954,
+        "timestp": "2026-02-18",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23038,
+        "monthly_diff_percent": 1.7573971177405723
+      },
+      {
+        "value": 1334763,
+        "timestp": "2026-02-19",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 23011,
+        "monthly_diff_percent": 1.7542187852581892
+      },
+      {
+        "value": 1335572,
+        "timestp": "2026-02-20",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22983,
+        "monthly_diff_percent": 1.7509669820484555
+      },
+      {
+        "value": 1336381,
+        "timestp": "2026-02-21",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22955,
+        "monthly_diff_percent": 1.7477193233573873
+      },
+      {
+        "value": 1337190,
+        "timestp": "2026-02-22",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22928,
+        "monthly_diff_percent": 1.7445532169384794
+      },
+      {
+        "value": 1337998,
+        "timestp": "2026-02-23",
+        "is_interpolated": true,
+        "diff": 808,
+        "monthly_diff": 22899,
+        "monthly_diff_percent": 1.741237731912198
+      },
+      {
+        "value": 1338807,
+        "timestp": "2026-02-24",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22871,
+        "monthly_diff_percent": 1.7380024560464946
+      },
+      {
+        "value": 1339616,
+        "timestp": "2026-02-25",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22844,
+        "monthly_diff_percent": 1.7348485538878406
+      },
+      {
+        "value": 1340425,
+        "timestp": "2026-02-26",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22816,
+        "monthly_diff_percent": 1.7316214446015472
+      },
+      {
+        "value": 1341234,
+        "timestp": "2026-02-27",
+        "is_interpolated": true,
+        "diff": 809,
+        "monthly_diff": 22788,
+        "monthly_diff_percent": 1.7283984327003152
+      },
+      {
+        "value": 1342043,
+        "timestp": "2026-02-28",
+        "is_interpolated": false,
+        "diff": 809,
+        "monthly_diff": 22761,
+        "monthly_diff_percent": 1.725256616856745
+      },
+      {
+        "value": 1336443,
+        "timestp": "2026-03-01",
+        "is_interpolated": false,
+        "diff": -5600,
+        "monthly_diff": 16324,
+        "monthly_diff_percent": 1.2365551893427789
+      },
+      {
+        "value": 1337592,
+        "timestp": "2026-03-02",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 16636,
+        "monthly_diff_percent": 1.25939092596574
+      },
+      {
+        "value": 1338741,
+        "timestp": "2026-03-03",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 16949,
+        "monthly_diff_percent": 1.28227436692006
+      },
+      {
+        "value": 1339890,
+        "timestp": "2026-03-04",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 17261,
+        "monthly_diff_percent": 1.3050522860152016
+      },
+      {
+        "value": 1341039,
+        "timestp": "2026-03-05",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 17601,
+        "monthly_diff_percent": 1.3299451882143327
+      },
+      {
+        "value": 1342188,
+        "timestp": "2026-03-06",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 17941,
+        "monthly_diff_percent": 1.354807675607345
+      },
+      {
+        "value": 1343337,
+        "timestp": "2026-03-07",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 18281,
+        "monthly_diff_percent": 1.3796398039026274
+      },
+      {
+        "value": 1344486,
+        "timestp": "2026-03-08",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 18621,
+        "monthly_diff_percent": 1.4044416286726025
+      },
+      {
+        "value": 1345635,
+        "timestp": "2026-03-09",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 18961,
+        "monthly_diff_percent": 1.4292132053541413
+      },
+      {
+        "value": 1346785,
+        "timestp": "2026-03-10",
+        "is_interpolated": true,
+        "diff": 1150,
+        "monthly_diff": 19302,
+        "monthly_diff_percent": 1.4540299197805169
+      },
+      {
+        "value": 1347934,
+        "timestp": "2026-03-11",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 19643,
+        "monthly_diff_percent": 1.4788175181492609
+      },
+      {
+        "value": 1349083,
+        "timestp": "2026-03-12",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 19983,
+        "monthly_diff_percent": 1.503498608080656
+      },
+      {
+        "value": 1350232,
+        "timestp": "2026-03-13",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 20323,
+        "monthly_diff_percent": 1.5281496703909816
+      },
+      {
+        "value": 1351381,
+        "timestp": "2026-03-14",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 20663,
+        "monthly_diff_percent": 1.5527707598454368
+      },
+      {
+        "value": 1352530,
+        "timestp": "2026-03-15",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 21003,
+        "monthly_diff_percent": 1.5773619310761253
+      },
+      {
+        "value": 1353679,
+        "timestp": "2026-03-16",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 21343,
+        "monthly_diff_percent": 1.6019232385824596
+      },
+      {
+        "value": 1354828,
+        "timestp": "2026-03-17",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 21683,
+        "monthly_diff_percent": 1.6264547367315634
+      },
+      {
+        "value": 1355977,
+        "timestp": "2026-03-18",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 22023,
+        "monthly_diff_percent": 1.6509564797586722
+      },
+      {
+        "value": 1357126,
+        "timestp": "2026-03-19",
+        "is_interpolated": true,
+        "diff": 1149,
+        "monthly_diff": 22363,
+        "monthly_diff_percent": 1.6754285217675347
+      },
+      {
+        "value": 1358275,
+        "timestp": "2026-03-20",
+        "is_interpolated": false,
+        "diff": 1149,
+        "monthly_diff": 22703,
+        "monthly_diff_percent": 1.6998709167308088
+      },
+      {
+        "value": 1358959,
+        "timestp": "2026-03-21",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 22578,
+        "monthly_diff_percent": 1.689488252227471
+      },
+      {
+        "value": 1359643,
+        "timestp": "2026-03-22",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 22453,
+        "monthly_diff_percent": 1.6791181507489588
+      },
+      {
+        "value": 1360327,
+        "timestp": "2026-03-23",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 22329,
+        "monthly_diff_percent": 1.6688365752415175
+      },
+      {
+        "value": 1361010,
+        "timestp": "2026-03-24",
+        "is_interpolated": true,
+        "diff": 683,
+        "monthly_diff": 22203,
+        "monthly_diff_percent": 1.6584167844954498
+      },
+      {
+        "value": 1361694,
+        "timestp": "2026-03-25",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 22078,
+        "monthly_diff_percent": 1.648084227121802
+      },
+      {
+        "value": 1362378,
+        "timestp": "2026-03-26",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 21953,
+        "monthly_diff_percent": 1.6377641419698976
+      },
+      {
+        "value": 1363062,
+        "timestp": "2026-03-27",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 21828,
+        "monthly_diff_percent": 1.6274565064709066
+      },
+      {
+        "value": 1363746,
+        "timestp": "2026-03-28",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 21703,
+        "monthly_diff_percent": 1.6171612981104182
+      },
+      {
+        "value": 1364430,
+        "timestp": "2026-03-29",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 27987,
+        "monthly_diff_percent": 2.0941409397931676
+      },
+      {
+        "value": 1365114,
+        "timestp": "2026-03-30",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 27522,
+        "monthly_diff_percent": 2.0575780955627723
+      },
+      {
+        "value": 1365797,
+        "timestp": "2026-03-31",
+        "is_interpolated": true,
+        "diff": 683,
+        "monthly_diff": 27056,
+        "monthly_diff_percent": 2.0210033158019365
+      },
+      {
+        "value": 1366481,
+        "timestp": "2026-04-01",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 26591,
+        "monthly_diff_percent": 1.9845658972005167
+      },
+      {
+        "value": 1367165,
+        "timestp": "2026-04-02",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 26126,
+        "monthly_diff_percent": 1.9481909176392334
+      },
+      {
+        "value": 1367849,
+        "timestp": "2026-04-03",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 25661,
+        "monthly_diff_percent": 1.9118782167624804
+      },
+      {
+        "value": 1368533,
+        "timestp": "2026-04-04",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 25196,
+        "monthly_diff_percent": 1.8756276347632796
+      },
+      {
+        "value": 1369217,
+        "timestp": "2026-04-05",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 24731,
+        "monthly_diff_percent": 1.8394390123809397
+      },
+      {
+        "value": 1369901,
+        "timestp": "2026-04-06",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 24266,
+        "monthly_diff_percent": 1.8033121908987209
+      },
+      {
+        "value": 1370584,
+        "timestp": "2026-04-07",
+        "is_interpolated": true,
+        "diff": 683,
+        "monthly_diff": 23799,
+        "monthly_diff_percent": 1.7670971981422423
+      },
+      {
+        "value": 1371268,
+        "timestp": "2026-04-08",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 23334,
+        "monthly_diff_percent": 1.731093658888343
+      },
+      {
+        "value": 1371952,
+        "timestp": "2026-04-09",
+        "is_interpolated": true,
+        "diff": 684,
+        "monthly_diff": 22869,
+        "monthly_diff_percent": 1.6951514473164362
+      },
+      {
+        "value": 1372636,
+        "timestp": "2026-04-10",
+        "is_interpolated": false,
+        "diff": 684,
+        "monthly_diff": 22404,
+        "monthly_diff_percent": 1.659270406863413
+      },
+      {
+        "value": 1373583,
+        "timestp": "2026-04-11",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 22202,
+        "monthly_diff_percent": 1.642911954511718
+      },
+      {
+        "value": 1374530,
+        "timestp": "2026-04-12",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 22000,
+        "monthly_diff_percent": 1.6265812957938088
+      },
+      {
+        "value": 1375476,
+        "timestp": "2026-04-13",
+        "is_interpolated": true,
+        "diff": 946,
+        "monthly_diff": 21797,
+        "monthly_diff_percent": 1.6102044871790135
+      },
+      {
+        "value": 1376423,
+        "timestp": "2026-04-14",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 21595,
+        "monthly_diff_percent": 1.5939292662980098
+      },
+      {
+        "value": 1377370,
+        "timestp": "2026-04-15",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 21393,
+        "monthly_diff_percent": 1.5776816273432366
+      },
+      {
+        "value": 1378317,
+        "timestp": "2026-04-16",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 21191,
+        "monthly_diff_percent": 1.5614615002586347
+      },
+      {
+        "value": 1379263,
+        "timestp": "2026-04-17",
+        "is_interpolated": true,
+        "diff": 946,
+        "monthly_diff": 20988,
+        "monthly_diff_percent": 1.5451951924315768
+      },
+      {
+        "value": 1380210,
+        "timestp": "2026-04-18",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 21251,
+        "monthly_diff_percent": 1.563770503745882
+      },
+      {
+        "value": 1381157,
+        "timestp": "2026-04-19",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 21514,
+        "monthly_diff_percent": 1.5823271255763462
+      },
+      {
+        "value": 1382104,
+        "timestp": "2026-04-20",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 21777,
+        "monthly_diff_percent": 1.6008650861153237
+      },
+      {
+        "value": 1383050,
+        "timestp": "2026-04-21",
+        "is_interpolated": true,
+        "diff": 946,
+        "monthly_diff": 22040,
+        "monthly_diff_percent": 1.619385603338697
+      },
+      {
+        "value": 1383997,
+        "timestp": "2026-04-22",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 22303,
+        "monthly_diff_percent": 1.6378863386340838
+      },
+      {
+        "value": 1384944,
+        "timestp": "2026-04-23",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 22566,
+        "monthly_diff_percent": 1.6563684968488923
+      },
+      {
+        "value": 1385891,
+        "timestp": "2026-04-24",
+        "is_interpolated": true,
+        "diff": 947,
+        "monthly_diff": 22829,
+        "monthly_diff_percent": 1.674832105949693
+      },
+      {
+        "value": 1386837,
+        "timestp": "2026-04-25",
+        "is_interpolated": true,
+        "diff": 946,
+        "monthly_diff": 23091,
+        "monthly_diff_percent": 1.6932038664091407
+      },
+      {
+        "value": 1387784,
+        "timestp": "2026-04-26",
+        "is_interpolated": false,
+        "diff": 947,
+        "monthly_diff": 23354,
+        "monthly_diff_percent": 1.7116304977169956
+      },
+      {
+        "value": 1388543,
+        "timestp": "2026-04-27",
+        "is_interpolated": true,
+        "diff": 759,
+        "monthly_diff": 23429,
+        "monthly_diff_percent": 1.7162669198323364
+      },
+      {
+        "value": 1389301,
+        "timestp": "2026-04-28",
+        "is_interpolated": true,
+        "diff": 758,
+        "monthly_diff": 23504,
+        "monthly_diff_percent": 1.7208999580464739
+      },
+      {
+        "value": 1390059,
+        "timestp": "2026-04-29",
+        "is_interpolated": true,
+        "diff": 758,
+        "monthly_diff": 23578,
+        "monthly_diff_percent": 1.7254539214229834
+      },
+      {
+        "value": 1390818,
+        "timestp": "2026-04-30",
+        "is_interpolated": true,
+        "diff": 759,
+        "monthly_diff": 23653,
+        "monthly_diff_percent": 1.7300764721156554
+      },
+      {
+        "value": 1391576,
+        "timestp": "2026-05-01",
+        "is_interpolated": true,
+        "diff": 758,
+        "monthly_diff": 23727,
+        "monthly_diff_percent": 1.7346212922625233
+      },
+      {
+        "value": 1392335,
+        "timestp": "2026-05-02",
+        "is_interpolated": true,
+        "diff": 759,
+        "monthly_diff": 23802,
+        "monthly_diff_percent": 1.7392346403046184
+      },
+      {
+        "value": 1393093,
+        "timestp": "2026-05-03",
+        "is_interpolated": true,
+        "diff": 758,
+        "monthly_diff": 23876,
+        "monthly_diff_percent": 1.743770344656837
+      },
+      {
+        "value": 1393852,
+        "timestp": "2026-05-04",
+        "is_interpolated": true,
+        "diff": 759,
+        "monthly_diff": 23951,
+        "monthly_diff_percent": 1.7483745175746277
+      },
+      {
+        "value": 1394610,
+        "timestp": "2026-05-05",
+        "is_interpolated": false,
+        "diff": 758,
+        "monthly_diff": 24026,
+        "monthly_diff_percent": 1.7529753740011558
+      },
+      {
+        "value": 1395673,
+        "timestp": "2026-05-06",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 24405,
+        "monthly_diff_percent": 1.779739627848094
+      },
+      {
+        "value": 1396736,
+        "timestp": "2026-05-07",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 24784,
+        "monthly_diff_percent": 1.8064771945374183
+      },
+      {
+        "value": 1397799,
+        "timestp": "2026-05-08",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25163,
+        "monthly_diff_percent": 1.8331881139646635
+      },
+      {
+        "value": 1398862,
+        "timestp": "2026-05-09",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25279,
+        "monthly_diff_percent": 1.84036931150138
+      },
+      {
+        "value": 1399925,
+        "timestp": "2026-05-10",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25395,
+        "monthly_diff_percent": 1.8475406138825634
+      },
+      {
+        "value": 1400988,
+        "timestp": "2026-05-11",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25512,
+        "monthly_diff_percent": 1.854776092058313
+      },
+      {
+        "value": 1402051,
+        "timestp": "2026-05-12",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25628,
+        "monthly_diff_percent": 1.8619276196343713
+      },
+      {
+        "value": 1403114,
+        "timestp": "2026-05-13",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25744,
+        "monthly_diff_percent": 1.8690693132564236
+      },
+      {
+        "value": 1404177,
+        "timestp": "2026-05-14",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25860,
+        "monthly_diff_percent": 1.8762011931943088
+      },
+      {
+        "value": 1405240,
+        "timestp": "2026-05-15",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 25977,
+        "monthly_diff_percent": 1.8833971476070916
+      },
+      {
+        "value": 1406303,
+        "timestp": "2026-05-16",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26093,
+        "monthly_diff_percent": 1.8905094152339135
+      },
+      {
+        "value": 1407366,
+        "timestp": "2026-05-17",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26209,
+        "monthly_diff_percent": 1.8976119297082084
+      },
+      {
+        "value": 1408429,
+        "timestp": "2026-05-18",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26325,
+        "monthly_diff_percent": 1.9047047110781823
+      },
+      {
+        "value": 1409492,
+        "timestp": "2026-05-19",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26442,
+        "monthly_diff_percent": 1.9118614656013881
+      },
+      {
+        "value": 1410555,
+        "timestp": "2026-05-20",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26558,
+        "monthly_diff_percent": 1.9189347953788918
+      },
+      {
+        "value": 1411618,
+        "timestp": "2026-05-21",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26674,
+        "monthly_diff_percent": 1.925998451922966
+      },
+      {
+        "value": 1412681,
+        "timestp": "2026-05-22",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26790,
+        "monthly_diff_percent": 1.9330524550632049
+      },
+      {
+        "value": 1413744,
+        "timestp": "2026-05-23",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 26907,
+        "monthly_diff_percent": 1.940170330038786
+      },
+      {
+        "value": 1414807,
+        "timestp": "2026-05-24",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 27023,
+        "monthly_diff_percent": 1.9472050405538615
+      },
+      {
+        "value": 1415870,
+        "timestp": "2026-05-25",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 27327,
+        "monthly_diff_percent": 1.9680341192170498
+      },
+      {
+        "value": 1416933,
+        "timestp": "2026-05-26",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 27632,
+        "monthly_diff_percent": 1.9889138494825815
+      },
+      {
+        "value": 1417996,
+        "timestp": "2026-05-27",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 27937,
+        "monthly_diff_percent": 2.0097708082894323
+      },
+      {
+        "value": 1419059,
+        "timestp": "2026-05-28",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 28241,
+        "monthly_diff_percent": 2.030531672727848
+      },
+      {
+        "value": 1420122,
+        "timestp": "2026-05-29",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 28546,
+        "monthly_diff_percent": 2.051343225235273
+      },
+      {
+        "value": 1421185,
+        "timestp": "2026-05-30",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 28850,
+        "monthly_diff_percent": 2.0720588076863686
+      },
+      {
+        "value": 1422248,
+        "timestp": "2026-05-31",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 29155,
+        "monthly_diff_percent": 2.09282510212886
+      },
+      {
+        "value": 1423311,
+        "timestp": "2026-06-01",
+        "is_interpolated": true,
+        "diff": 1063,
+        "monthly_diff": 29459,
+        "monthly_diff_percent": 2.1134955504601636
+      },
+      {
+        "value": 1424374,
+        "timestp": "2026-06-02",
+        "is_interpolated": false,
+        "diff": 1063,
+        "monthly_diff": 29764,
+        "monthly_diff_percent": 2.1342167344275462
+      },
+      {
+        "value": 1427962,
+        "timestp": "2026-06-03",
+        "is_interpolated": true,
+        "diff": 3588,
+        "monthly_diff": 32289,
+        "monthly_diff_percent": 2.3135075336414763
+      },
+      {
+        "value": 1431551,
+        "timestp": "2026-06-04",
+        "is_interpolated": true,
+        "diff": 3589,
+        "monthly_diff": 34815,
+        "monthly_diff_percent": 2.4925970262096775
+      },
+      {
+        "value": 1435139,
+        "timestp": "2026-06-05",
+        "is_interpolated": true,
+        "diff": 3588,
+        "monthly_diff": 37340,
+        "monthly_diff_percent": 2.671342589313628
+      },
+      {
+        "value": 1438727,
+        "timestp": "2026-06-06",
+        "is_interpolated": false,
+        "diff": 3588,
+        "monthly_diff": 39865,
+        "monthly_diff_percent": 2.8498164936927304
+      },
+      {
+        "value": 1439783,
+        "timestp": "2026-06-07",
+        "is_interpolated": true,
+        "diff": 1056,
+        "monthly_diff": 39858,
+        "monthly_diff_percent": 2.84715252602818
+      },
+      {
+        "value": 1440839,
+        "timestp": "2026-06-08",
+        "is_interpolated": false,
+        "diff": 1056,
+        "monthly_diff": 39851,
+        "monthly_diff_percent": 2.844492600935911
+      },
+      {
+        "value": 1440839,
+        "timestp": "2026-06-09",
+        "is_interpolated": false,
+        "diff": 0,
+        "monthly_diff": 38788,
+        "monthly_diff_percent": 2.766518478999694
+      }
+    ]
+  }
+}

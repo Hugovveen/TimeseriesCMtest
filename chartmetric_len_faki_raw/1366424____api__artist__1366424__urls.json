@@ -1,0 +1,56 @@
+{
+  "obj": [
+    {
+      "domain": "lastfm",
+      "url": [
+        "https://last.fm/music/Kai+King"
+      ]
+    },
+    {
+      "domain": "anghami",
+      "url": [
+        "https://play.anghami.com/artist/13529015",
+        "https://play.anghami.com/artist/15635562",
+        "https://play.anghami.com/artist/5786675",
+        "https://play.anghami.com/artist/5350242",
+        "https://play.anghami.com/artist/13350800",
+        "https://anghami.com/artist/3955786",
+        "https://play.anghami.com/artist/17518444",
+        "https://play.anghami.com/artist/3955786"
+      ]
+    },
+    {
+      "domain": "deezer",
+      "url": [
+        "https://deezer.com/artist/14657545"
+      ]
+    },
+    {
+      "domain": "amazon",
+      "url": [
+        "https://music.amazon.com/artists/B07CQ9TQRN",
+        "https://music.amazon.com/artists/B07CQ9TQRN",
+        "https://music.amazon.com/artists/B07CQ9TQRN"
+      ]
+    },
+    {
+      "domain": "itunes",
+      "url": [
+        "https://music.apple.com/artist/1490764830",
+        "https://music.apple.com/artist/1377883378"
+      ]
+    },
+    {
+      "domain": "spotify",
+      "url": [
+        "https://open.spotify.com/artist/45DYIK7Z0ydwur65JNl0id"
+      ]
+    },
+    {
+      "domain": "singleLinkPlatforms"
+    },
+    {
+      "domain": "multiLinkPlatforms"
+    }
+  ]
+}

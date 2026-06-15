@@ -1,0 +1,230 @@
+{
+  "obj": {
+    "id": 11805352,
+    "name": "22 Interns",
+    "created_at": "2026-06-15T09:49:11Z",
+    "code2": null,
+    "band": false,
+    "pronoun_title": null,
+    "gender_title": null,
+    "gender": null,
+    "isni": null,
+    "cm_artist_rank": 254682,
+    "cm_artist_score": 38.78962164614903,
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273a13e34f2429f1b51ebbea4f7",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5eb63306233e814fc2152aa782f",
+    "hometown_city": null,
+    "current_city": null,
+    "current_city_id": null,
+    "band_members": null,
+    "booking_agent": null,
+    "record_label": "ONLYTRANCE",
+    "press_contact": null,
+    "general_manager": null,
+    "topSongwriterCollaborators": [
+      "Jip Louws & Ramon Grille",
+      "22 Interns & HRTS",
+      "22 Interns",
+      "Jip Louws & 22 Interns",
+      "Jakob Hoffmann"
+    ],
+    "description": "What began as a shared love for house music quickly evolved into a creative partnership. Jip and Ramon met as interns at the promoter and house label &#34;No Art&#34;, where they formed a close bond and creative connection.\n\nIn December 2023, they brought their passion into the studio, resulting in their debut single Feel Right. The track quickly gained traction and went viral, marking the beginning of a promising journey as a DJ and producer duo.\n\nTheir second release, Licht Uit, gained recognition in the Netherlands and Belgium after receiving support from Trym during his set at Rotterdam Rave. This breakthrough was followed by the summer anthem Baila, their most-streamed track to date. More recently, Feelin&#39; Love (with Entasia) and Stay High have been making big waves. All of these tracks are receiving strong support from some of the most influential and prominent artists in the scene. \n\nSince then, they’ve grown into a DJ duo known for high-energy sets filled with emotion, nostalgia, and drive, lighting up dance floors and creating unforgettable moments.",
+    "genres": {
+      "primary": {
+        "id": 501146,
+        "name": "dance",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501124,
+          "name": "electronic",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501177,
+          "name": "trance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501446,
+          "name": "dub techno",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501468,
+          "name": "eurodance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 507675,
+          "name": "hard house",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 501146
+      },
+      {
+        "2": 501124
+      },
+      {
+        "3": 501177
+      },
+      {
+        "4": 501446
+      },
+      {
+        "5": 501468
+      },
+      {
+        "6": 507675
+      }
+    ],
+    "moods": [
+      {
+        "id": 504954,
+        "name": "energetic"
+      },
+      {
+        "id": 505009,
+        "name": "lively"
+      }
+    ],
+    "activities": [
+      {
+        "id": 504872,
+        "name": "dancy"
+      }
+    ],
+    "career_status": {
+      "stage": "developing",
+      "stage_score": 13,
+      "trend": "growth",
+      "trend_score": 36
+    },
+    "cm_statistics": {
+      "countryRank": {},
+      "sp_followers": 1485,
+      "sp_followers_rank": 451330,
+      "deezer_fans": 12,
+      "deezer_fans_rank": 970850,
+      "sp_popularity": 23,
+      "sp_popularity_rank": 291341,
+      "sp_monthly_listeners": 21950,
+      "sp_monthly_listeners_rank": 245470,
+      "sp_where_people_listen": [
+        {
+          "code2": "au",
+          "listeners": 1012,
+          "name": "Melbourne"
+        },
+        {
+          "code2": "au",
+          "listeners": 801,
+          "name": "Sydney"
+        },
+        {
+          "code2": "nl",
+          "listeners": 666,
+          "name": "Amsterdam"
+        },
+        {
+          "code2": "gb",
+          "listeners": 574,
+          "name": "London"
+        },
+        {
+          "code2": "ie",
+          "listeners": 460,
+          "name": "Dublin"
+        }
+      ],
+      "ins_followers": 6412,
+      "ins_followers_rank": 126138,
+      "ycs_subscribers": null,
+      "ycs_subscribers_rank": null,
+      "ycs_views": null,
+      "ycs_views_rank": null,
+      "tiktok_followers": null,
+      "tiktok_followers_rank": null,
+      "tiktok_likes": null,
+      "tiktok_likes_rank": null,
+      "tiktok_top_video_views": null,
+      "tiktok_top_video_views_rank": null,
+      "tiktok_top_video_comments": null,
+      "tiktok_track_posts": null,
+      "tiktok_track_posts_rank": null,
+      "cm_artist_rank": 254682,
+      "cm_artist_score": 38.78962164614903,
+      "fan_base_rank": 194765,
+      "rank_fb": 194765,
+      "rank_eg": 269929,
+      "engagement_rank": 269929,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": null,
+      "pandora_listeners_28_day_rank": null,
+      "pandora_lifetime_stations_added": null,
+      "pandora_lifetime_stations_added_rank": null,
+      "pandora_lifetime_streams": 7,
+      "pandora_lifetime_streams_rank": 713451,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 0,
+      "num_sp_playlists": 1087,
+      "sp_playlist_total_reach": 107363,
+      "sp_editorial_playlist_total_reach": 0,
+      "num_am_editorial_playlists": null,
+      "num_am_playlists": null,
+      "num_de_editorial_playlists": null,
+      "num_de_playlists": null,
+      "de_playlist_total_reach": null,
+      "de_editorial_playlist_total_reach": null,
+      "num_az_editorial_playlists": null,
+      "num_az_playlists": null,
+      "num_yt_editorial_playlists": null,
+      "num_yt_playlists": null,
+      "yt_playlist_total_reach": null,
+      "yt_editorial_playlist_total_reach": null,
+      "shazam_count": 3443,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

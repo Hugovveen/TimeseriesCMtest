@@ -1,0 +1,136 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 1366424,
+        "name": "Kai King",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb82663d1e5f97aab7e5c0d64d",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 1806,
+        "sp_monthly_listeners": 230,
+        "cm_artist_score": 4.368718757180135,
+        "band": false,
+        "gender": null,
+        "primary_genre_smart": 503565
+      },
+      {
+        "id": 3631168,
+        "name": "Kai King",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eba4d90eef9812ae6610286286",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 154,
+        "sp_monthly_listeners": 17,
+        "cm_artist_score": 0.7079976667919263,
+        "band": false,
+        "gender": null,
+        "primary_genre_smart": 501120
+      },
+      {
+        "id": 9386203,
+        "name": "Kai King",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc07c7c6a278f4c4e1240a34",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 4,
+        "sp_monthly_listeners": 2,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 14017731,
+        "name": "kai king",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebdd03339e30508d93527580c4",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 16,
+        "sp_monthly_listeners": 98,
+        "cm_artist_score": 0.1254634981900482,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 123231,
+        "name": "Kaki King",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb8950ce4b695c1cc9c2dce28c",
+        "isni": "0000000115642004",
+        "verified": false,
+        "sp_followers": 72456,
+        "sp_monthly_listeners": 81179,
+        "cm_artist_score": 56.48222546221029,
+        "band": false,
+        "gender": "female",
+        "primary_genre_smart": 501122
+      },
+      {
+        "id": 5816284,
+        "name": "Kai Kinkel",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730bdd869075b4ae9c83be80d6",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 66,
+        "sp_monthly_listeners": 21,
+        "cm_artist_score": 0.04983108701446248,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501261
+      },
+      {
+        "id": 1350216,
+        "name": "Kai Kight",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732eca207609b49af1c021ede8",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 170,
+        "sp_monthly_listeners": 218,
+        "cm_artist_score": 10.99394358405681,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501134
+      },
+      {
+        "id": 15253099,
+        "name": "Kai Kang",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731bc318f9bfe0b3f34be92dca",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 48,
+        "sp_monthly_listeners": 300,
+        "cm_artist_score": 1.388749734323014,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 13918548,
+        "name": "Kai Ling",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0.002198116121676641,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 3724925,
+        "name": "Kai Ming",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb5805214af6ee77bd3d55fc93",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 13,
+        "sp_monthly_listeners": 1,
+        "cm_artist_score": 0.000667276554622287,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501146
+      }
+    ]
+  }
+}

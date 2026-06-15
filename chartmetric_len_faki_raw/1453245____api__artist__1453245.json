@@ -1,0 +1,258 @@
+{
+  "obj": {
+    "id": 1453245,
+    "name": "AADJA",
+    "created_at": "2026-06-15T08:22:00Z",
+    "code2": "CA",
+    "band": false,
+    "pronoun_title": "she/her",
+    "gender_title": "female",
+    "gender": 0,
+    "isni": null,
+    "cm_artist_rank": 329266,
+    "cm_artist_score": 33.11637472948304,
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273b7291abbfc3aee003cc68975",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5ebc2ff4c7f2723eac700ce95ca",
+    "hometown_city": null,
+    "current_city": "Montréal",
+    "current_city_id": 394293,
+    "band_members": null,
+    "booking_agent": null,
+    "record_label": "BPITCH CONTROL",
+    "press_contact": null,
+    "general_manager": null,
+    "topSongwriterCollaborators": [
+      "AADJA",
+      "Hilary Jean",
+      "Helene Hilary Jean Baird & AADJA",
+      "Hillary Jean",
+      "Hilary Jean Baird"
+    ],
+    "description": "AADJA",
+    "genres": {
+      "primary": {
+        "id": 501261,
+        "name": "acidcore",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501511,
+          "name": "hardgroove",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 501446,
+          "name": "dub techno",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503720,
+          "name": "canadian dance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503698,
+          "name": "canadian electronic",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 501261
+      },
+      {
+        "2": 501511
+      },
+      {
+        "3": 501446
+      },
+      {
+        "4": 503720
+      },
+      {
+        "5": 503698
+      }
+    ],
+    "moods": [
+      {
+        "id": 504954,
+        "name": "energetic"
+      },
+      {
+        "id": 504996,
+        "name": "hypnotic"
+      },
+      {
+        "id": 505080,
+        "name": "upbeat"
+      },
+      {
+        "id": 504917,
+        "name": "atmospheric"
+      },
+      {
+        "id": 505001,
+        "name": "intense"
+      },
+      {
+        "id": 505073,
+        "name": "thrilling"
+      }
+    ],
+    "activities": [
+      {
+        "id": 504872,
+        "name": "dancy"
+      },
+      {
+        "id": 504874,
+        "name": "driving"
+      },
+      {
+        "id": 504876,
+        "name": "partying"
+      },
+      {
+        "id": 504903,
+        "name": "late-night"
+      },
+      {
+        "id": 504939,
+        "name": "cruising"
+      }
+    ],
+    "career_status": {
+      "stage": "developing",
+      "stage_score": 11,
+      "trend": "steady",
+      "trend_score": 32
+    },
+    "cm_statistics": {
+      "countryRank": {
+        "code2": "CA",
+        "country": "Canada",
+        "rank": 3524,
+        "percentile": 5
+      },
+      "sp_followers": 8400,
+      "sp_followers_rank": 155373,
+      "deezer_fans": 221,
+      "deezer_fans_rank": 232720,
+      "sp_popularity": 23,
+      "sp_popularity_rank": 290859,
+      "sp_monthly_listeners": 23391,
+      "sp_monthly_listeners_rank": 237090,
+      "sp_where_people_listen": [
+        {
+          "code2": "co",
+          "listeners": 693,
+          "name": "Bogotá"
+        },
+        {
+          "code2": "de",
+          "listeners": 533,
+          "name": "Berlin"
+        },
+        {
+          "code2": "cl",
+          "listeners": 422,
+          "name": "Santiago"
+        },
+        {
+          "code2": "mx",
+          "listeners": 338,
+          "name": "Mexico City"
+        },
+        {
+          "code2": "au",
+          "listeners": 296,
+          "name": "Melbourne"
+        }
+      ],
+      "ins_followers": 25235,
+      "ins_followers_rank": 74884,
+      "ycs_subscribers": 553,
+      "ycs_subscribers_rank": 151175,
+      "ycs_views": 116879,
+      "ycs_views_rank": 150888,
+      "tiktok_followers": null,
+      "tiktok_followers_rank": null,
+      "tiktok_likes": null,
+      "tiktok_likes_rank": null,
+      "tiktok_top_video_views": 341967,
+      "tiktok_top_video_views_rank": 374970,
+      "tiktok_top_video_comments": 516,
+      "tiktok_track_posts": 54,
+      "tiktok_track_posts_rank": 579375,
+      "cm_artist_rank": 329266,
+      "cm_artist_score": 33.11637472948304,
+      "fan_base_rank": 289705,
+      "rank_fb": 289705,
+      "rank_eg": 320497,
+      "engagement_rank": 320497,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": 1,
+      "pandora_listeners_28_day_rank": 457584,
+      "pandora_lifetime_stations_added": null,
+      "pandora_lifetime_stations_added_rank": null,
+      "pandora_lifetime_streams": 25,
+      "pandora_lifetime_streams_rank": 591227,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 0,
+      "num_sp_playlists": 7074,
+      "sp_playlist_total_reach": 1350992,
+      "sp_editorial_playlist_total_reach": 0,
+      "num_am_editorial_playlists": null,
+      "num_am_playlists": null,
+      "num_de_editorial_playlists": 0,
+      "num_de_playlists": 1,
+      "de_playlist_total_reach": 1734,
+      "de_editorial_playlist_total_reach": 0,
+      "num_az_editorial_playlists": null,
+      "num_az_playlists": null,
+      "num_yt_editorial_playlists": 0,
+      "num_yt_playlists": 1,
+      "yt_playlist_total_reach": 740276,
+      "yt_editorial_playlist_total_reach": 0,
+      "shazam_count": 16333,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

@@ -1,16 +1,17 @@
-# len_faki_chartmetric_timeseries_pull.py
+# chartmetric_artist_timeseries_pull.py
 #
-# Len Faki-only Chartmetric time-series pull.
+# Chartmetric time-series pull for a CSV of resolved artists.
 #
 # Purpose:
-# - Pull raw Chartmetric time-series data for one artist.
+# - Read artist IDs from `chartmetric_artist_id_matches.csv`.
+# - Pull raw Chartmetric time-series data for each artist.
 # - Save raw JSON responses.
 # - Flatten known time-series responses into one long CSV table.
 # - Do NOT calculate growth here. Growth belongs in the analytics layer.
 #
 # WARNING:
-# This script is intentionally limited to ONE artist.
-# Do not modify it to loop over large artist lists unless API access is confirmed.
+# This script is intentionally designed for a small-to-moderate artist list.
+# Verify the endpoint behavior and credit usage before running on large batches.
 # Civilization has suffered enough.
 
 import csv
@@ -47,6 +48,7 @@ SLEEP_SECONDS = 1
 RAW_DIR = Path("chartmetric_len_faki_raw")
 OUTPUT_LONG_CSV = Path("len_faki_timeseries_long.csv")
 OUTPUT_ENDPOINT_SUMMARY_CSV = Path("len_faki_endpoint_summary.csv")
+INPUT_ARTIST_IDS_CSV = Path("chartmetric_artist_id_matches.csv")
 
 
 # -----------------------------
@@ -112,6 +114,41 @@ def save_raw_json(endpoint_name: str, data: Dict[str, Any]) -> Path:
     return path
 
 
+def read_artist_rows(path: Path) -> List[Dict[str, Any]]:
+    if not path.exists():
+        raise FileNotFoundError(f"Artist ID CSV not found: {path.resolve()}")
+
+    rows = []
+    with open(path, "r", encoding="utf-8-sig", newline="") as handle:
+        reader = csv.DictReader(handle)
+
+        if not reader.fieldnames:
+            raise ValueError("Artist ID CSV has no header row.")
+
+        for row in reader:
+            raw_id = row.get("chartmetric_artist_id") or row.get("cm_artist_id") or row.get("artist_id")
+            raw_name = row.get("chartmetric_name") or row.get("input_name") or row.get("name") or row.get("artist_name")
+
+            if raw_id in [None, ""]:
+                continue
+
+            try:
+                chartmetric_artist_id = int(str(raw_id).strip())
+            except Exception:
+                continue
+
+            artist_name = str(raw_name).strip() if raw_name is not None else ""
+
+            rows.append(
+                {
+                    "chartmetric_artist_id": chartmetric_artist_id,
+                    "artist_name": artist_name or f"Artist {chartmetric_artist_id}",
+                }
+            )
+
+    return rows
+
+
 def now_utc_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
@@ -120,7 +157,7 @@ def now_utc_iso() -> str:
 # ENDPOINT LIST
 # -----------------------------
 
-def build_candidates() -> List[Dict[str, Any]]:
+def build_candidates(artist_id: int) -> List[Dict[str, Any]]:
     """
     All calls are Len Faki-only.
 
@@ -136,13 +173,13 @@ def build_candidates() -> List[Dict[str, Any]]:
         {
             "label": "artist_metadata",
             "type": "metadata",
-            "path": f"/api/artist/{ARTIST_ID}",
+            "path": f"/api/artist/{artist_id}",
             "params": {},
         },
         {
             "label": "artist_urls",
             "type": "metadata",
-            "path": f"/api/artist/{ARTIST_ID}/urls",
+            "path": f"/api/artist/{artist_id}/urls",
             "params": {},
         },
 
@@ -152,7 +189,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "spotify",
             "metric": "followers",
-            "path": f"/api/artist/{ARTIST_ID}/stat/spotify",
+            "path": f"/api/artist/{artist_id}/stat/spotify",
             "params": {
                 "field": "followers",
                 "since": SINCE,
@@ -165,7 +202,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "spotify",
             "metric": "listeners",
-            "path": f"/api/artist/{ARTIST_ID}/stat/spotify",
+            "path": f"/api/artist/{artist_id}/stat/spotify",
             "params": {
                 "field": "listeners",
                 "since": SINCE,
@@ -178,7 +215,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "spotify",
             "metric": "popularity",
-            "path": f"/api/artist/{ARTIST_ID}/stat/spotify",
+            "path": f"/api/artist/{artist_id}/stat/spotify",
             "params": {
                 "field": "popularity",
                 "since": SINCE,
@@ -193,7 +230,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "instagram",
             "metric": "followers",
-            "path": f"/api/artist/{ARTIST_ID}/stat/instagram",
+            "path": f"/api/artist/{artist_id}/stat/instagram",
             "params": {
                 "field": "followers",
                 "since": SINCE,
@@ -208,7 +245,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "tiktok",
             "metric": "followers",
-            "path": f"/api/artist/{ARTIST_ID}/stat/tiktok",
+            "path": f"/api/artist/{artist_id}/stat/tiktok",
             "params": {
                 "field": "followers",
                 "since": SINCE,
@@ -221,7 +258,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "tiktok",
             "metric": "likes",
-            "path": f"/api/artist/{ARTIST_ID}/stat/tiktok",
+            "path": f"/api/artist/{artist_id}/stat/tiktok",
             "params": {
                 "field": "likes",
                 "since": SINCE,
@@ -236,7 +273,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "youtube_channel",
             "metric": "subscribers",
-            "path": f"/api/artist/{ARTIST_ID}/stat/youtube_channel",
+            "path": f"/api/artist/{artist_id}/stat/youtube_channel",
             "params": {
                 "field": "subscribers",
                 "since": SINCE,
@@ -249,7 +286,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "youtube_channel",
             "metric": "views",
-            "path": f"/api/artist/{ARTIST_ID}/stat/youtube_channel",
+            "path": f"/api/artist/{artist_id}/stat/youtube_channel",
             "params": {
                 "field": "views",
                 "since": SINCE,
@@ -264,7 +301,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "youtube_artist",
             "metric": "daily_views",
-            "path": f"/api/artist/{ARTIST_ID}/stat/youtube_artist",
+            "path": f"/api/artist/{artist_id}/stat/youtube_artist",
             "params": {
                 "field": "daily_views",
                 "since": SINCE,
@@ -277,7 +314,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "youtube_artist",
             "metric": "monthly_views",
-            "path": f"/api/artist/{ARTIST_ID}/stat/youtube_artist",
+            "path": f"/api/artist/{artist_id}/stat/youtube_artist",
             "params": {
                 "field": "monthly_views",
                 "since": SINCE,
@@ -292,7 +329,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "stat_source",
             "source": "soundcloud",
             "metric": "followers",
-            "path": f"/api/artist/{ARTIST_ID}/stat/soundcloud",
+            "path": f"/api/artist/{artist_id}/stat/soundcloud",
             "params": {
                 "field": "followers",
                 "since": SINCE,
@@ -307,7 +344,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "cpp",
             "source": "chartmetric",
             "metric": "cpp_score",
-            "path": f"/api/artist/{ARTIST_ID}/cpp",
+            "path": f"/api/artist/{artist_id}/cpp",
             "params": {
                 "stat": "score",
                 "since": SINCE,
@@ -319,7 +356,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "cpp",
             "source": "chartmetric",
             "metric": "cpp_rank",
-            "path": f"/api/artist/{ARTIST_ID}/cpp",
+            "path": f"/api/artist/{artist_id}/cpp",
             "params": {
                 "stat": "rank",
                 "since": SINCE,
@@ -333,7 +370,7 @@ def build_candidates() -> List[Dict[str, Any]]:
             "type": "where_people_listen",
             "source": "spotify",
             "metric": "listeners",
-            "path": f"/api/artist/{ARTIST_ID}/where-people-listen",
+            "path": f"/api/artist/{artist_id}/where-people-listen",
             "params": {
                 "since": SINCE,
                 "until": UNTIL,
@@ -635,92 +672,110 @@ def write_endpoint_summary(rows: List[Dict[str, Any]], output_path: Path) -> Non
 # -----------------------------
 
 def main() -> None:
-    print(f"Starting Len Faki-only Chartmetric pull")
-    print(f"Artist: {ARTIST_NAME} / Chartmetric ID: {ARTIST_ID}")
+    print("Starting Chartmetric batch pull from artist ID CSV")
+    print(f"Input CSV: {INPUT_ARTIST_IDS_CSV.resolve()}")
     print(f"Window: {SINCE} → {UNTIL}")
 
     token = get_token()
-    candidates = build_candidates()
+    artist_rows = read_artist_rows(INPUT_ARTIST_IDS_CSV)
 
     all_long_rows = []
     endpoint_summary_rows = []
 
-    for index, candidate in enumerate(candidates, start=1):
-        label = candidate["label"]
-        endpoint_type = candidate["type"]
-        path = candidate["path"]
-        params = candidate.get("params", {})
+    for artist_index, artist_row in enumerate(artist_rows, start=1):
+        artist_id = int(artist_row["chartmetric_artist_id"])
+        artist_name = artist_row["artist_name"]
+        candidates = build_candidates(artist_id)
 
-        print("\n" + "=" * 80)
-        print(f"Endpoint {index}/{len(candidates)}: {label}")
-        print(path)
-        print(params)
+        print("\n" + "#" * 80)
+        print(f"{artist_index}/{len(artist_rows)}: {artist_name} ({artist_id})")
 
-        pulled_at = now_utc_iso()
-        endpoint_name = safe_endpoint_name(path, params)
+        for index, candidate in enumerate(candidates, start=1):
+            label = candidate["label"]
+            endpoint_type = candidate["type"]
+            path = candidate["path"]
+            params = candidate.get("params", {})
 
-        data = get_json(path, token, params=params)
+            print("\n" + "=" * 80)
+            print(f"Endpoint {index}/{len(candidates)}: {label}")
+            print(path)
+            print(params)
 
-        if data is None:
+            pulled_at = now_utc_iso()
+            endpoint_name = safe_endpoint_name(f"{artist_id}__{path}", params)
+
+            data = get_json(path, token, params=params)
+
+            if data is None:
+                endpoint_summary_rows.append(
+                    {
+                        "artist_id": artist_id,
+                        "artist_name": artist_name,
+                        "endpoint_label": label,
+                        "path": path,
+                        "params": json.dumps(params, ensure_ascii=False),
+                        "success": "False",
+                        "row_count": 0,
+                        "raw_json_path": "",
+                    }
+                )
+                time.sleep(SLEEP_SECONDS)
+                continue
+
+            raw_path = save_raw_json(endpoint_name, data)
+
+            if endpoint_type == "stat_source":
+                long_rows = flatten_stat_source(
+                    data=data,
+                    source=candidate["source"],
+                    requested_metric=candidate["metric"],
+                    endpoint_label=label,
+                    pulled_at=pulled_at,
+                )
+
+            elif endpoint_type == "cpp":
+                long_rows = flatten_cpp(
+                    data=data,
+                    source=candidate["source"],
+                    metric=candidate["metric"],
+                    endpoint_label=label,
+                    pulled_at=pulled_at,
+                )
+
+            elif endpoint_type == "where_people_listen":
+                long_rows = flatten_where_people_listen(
+                    data=data,
+                    endpoint_label=label,
+                    pulled_at=pulled_at,
+                )
+
+            else:
+                # Metadata endpoints are saved raw only.
+                long_rows = []
+
+            # Attach artist metadata to every flattened row.
+            for row in long_rows:
+                row["artist_id"] = f"cm_{artist_id}"
+                row["chartmetric_artist_id"] = artist_id
+                row["artist_name"] = artist_name
+
+            all_long_rows.extend(long_rows)
+
             endpoint_summary_rows.append(
                 {
+                    "artist_id": artist_id,
+                    "artist_name": artist_name,
                     "endpoint_label": label,
                     "path": path,
                     "params": json.dumps(params, ensure_ascii=False),
-                    "success": "False",
-                    "row_count": 0,
-                    "raw_json_path": "",
+                    "success": "True",
+                    "row_count": len(long_rows),
+                    "raw_json_path": str(raw_path),
                 }
             )
+
+            print(f"Flattened rows: {len(long_rows)}")
             time.sleep(SLEEP_SECONDS)
-            continue
-
-        raw_path = save_raw_json(endpoint_name, data)
-
-        if endpoint_type == "stat_source":
-            long_rows = flatten_stat_source(
-                data=data,
-                source=candidate["source"],
-                requested_metric=candidate["metric"],
-                endpoint_label=label,
-                pulled_at=pulled_at,
-            )
-
-        elif endpoint_type == "cpp":
-            long_rows = flatten_cpp(
-                data=data,
-                source=candidate["source"],
-                metric=candidate["metric"],
-                endpoint_label=label,
-                pulled_at=pulled_at,
-            )
-
-        elif endpoint_type == "where_people_listen":
-            long_rows = flatten_where_people_listen(
-                data=data,
-                endpoint_label=label,
-                pulled_at=pulled_at,
-            )
-
-        else:
-            # Metadata endpoints are saved raw only.
-            long_rows = []
-
-        all_long_rows.extend(long_rows)
-
-        endpoint_summary_rows.append(
-            {
-                "endpoint_label": label,
-                "path": path,
-                "params": json.dumps(params, ensure_ascii=False),
-                "success": "True",
-                "row_count": len(long_rows),
-                "raw_json_path": str(raw_path),
-            }
-        )
-
-        print(f"Flattened rows: {len(long_rows)}")
-        time.sleep(SLEEP_SECONDS)
 
     write_long_csv(all_long_rows, OUTPUT_LONG_CSV)
     write_endpoint_summary(endpoint_summary_rows, OUTPUT_ENDPOINT_SUMMARY_CSV)

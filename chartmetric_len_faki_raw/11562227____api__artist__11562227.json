@@ -1,0 +1,218 @@
+{
+  "obj": {
+    "id": 11562227,
+    "name": "Joëlla Jackson",
+    "created_at": "2026-06-15T09:43:32Z",
+    "code2": "NL",
+    "band": false,
+    "pronoun_title": "she/her",
+    "gender_title": "female",
+    "gender": 0,
+    "isni": null,
+    "cm_artist_rank": 237729,
+    "cm_artist_score": 40.2510081444394,
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/ba/9e/b7ba9ea0-06a2-4a3b-5331-ec7068381e23/cover.jpg/160x160bb.jpg",
+    "image_url": "https://i.scdn.co/image/ab6761610000e5ebd6642519e92924935d50e6aa",
+    "hometown_city": null,
+    "current_city": "Amsterdam",
+    "current_city_id": 4258,
+    "band_members": null,
+    "booking_agent": null,
+    "record_label": "Cocoa",
+    "press_contact": null,
+    "general_manager": null,
+    "topSongwriterCollaborators": [
+      "Nico Döringer & Joëlla Jackson",
+      "Joëlla Jackson",
+      "Nico Döringer & Peter Waldmann",
+      "Jorge Gálvez",
+      "Felix Berzosa Salamaca & Oliver Baker Clipston",
+      "Nico Döringer",
+      "Peter Waldmann & Joëlla Jackson"
+    ],
+    "description": "Joëlla Jackson is an Amsterdam-based DJ who started her career playing in the city centre of Amsterdam. She quickly climbed the ranks, becoming a staple in the Dutch scene and making a name for herself internationally. Her sound is defined by groovy beats and basslines plus a love for percussion and soulful or sexy vocals.\n\nGrowing up in a musical household, Joëlla developed a diverse taste from an early age. Her passion for house music started around age 13, inspired by “Dirty House” mixtapes from DJ Chuckie. Her love for discovering new music eventually turned into a desire to surprise and inspire others with fresh tracks.\n\nShe quickly showcased a natural talent, leading her to pursue DJing seriously.\nIn the Netherlands she had major bookings, including Loveland, DGTL, Elrow, and Shelter—where she held a residency in 2022. Her career took off further after joining the agency Meanwhile. In 2023.\n\nJoëlla shares the stage with some of her biggest inspirations, such as Loco Dice, The Martinez Brothers, Jamie Jones, and Marco Carola. She has performed at top festivals like Creamfields, Music On, and Awakenings, and has taken her career worldwide, with shows across Europe, North Africa, the Caribbean, and Ibiza.\n\nWith exciting gigs and new music lined up, 2025 promises to be another milestone year. Follow her journey on social media to stay up to date!",
+    "genres": {
+      "primary": {
+        "id": 501815,
+        "name": "tech house",
+        "type": "genre_v2",
+        "source": "cm"
+      },
+      "secondary": [
+        {
+          "id": 501236,
+          "name": "european dance",
+          "type": "genre_v2",
+          "source": "cm"
+        },
+        {
+          "id": 503309,
+          "name": "european electronic",
+          "type": "genre_v2",
+          "source": "cm"
+        }
+      ],
+      "sub": []
+    },
+    "genre_smart_ordered": [
+      {
+        "1": 501815
+      },
+      {
+        "2": 501236
+      },
+      {
+        "3": 503309
+      }
+    ],
+    "moods": [
+      {
+        "id": 504955,
+        "name": "energizing"
+      },
+      {
+        "id": 511469,
+        "name": "party"
+      },
+      {
+        "id": 505092,
+        "name": "groovy"
+      }
+    ],
+    "activities": [
+      {
+        "id": 504872,
+        "name": "dancy"
+      },
+      {
+        "id": 505253,
+        "name": "night out"
+      }
+    ],
+    "career_status": {
+      "stage": "developing",
+      "stage_score": 31,
+      "trend": "steady",
+      "trend_score": 99
+    },
+    "cm_statistics": {
+      "countryRank": {
+        "code2": "NL",
+        "country": "Netherlands",
+        "rank": 3101,
+        "percentile": 5
+      },
+      "sp_followers": 750,
+      "sp_followers_rank": 664987,
+      "deezer_fans": 4,
+      "deezer_fans_rank": 1435435,
+      "sp_popularity": 26,
+      "sp_popularity_rank": 218450,
+      "sp_monthly_listeners": 49016,
+      "sp_monthly_listeners_rank": 155229,
+      "sp_where_people_listen": [
+        {
+          "code2": "gb",
+          "listeners": 1038,
+          "name": "London"
+        },
+        {
+          "code2": "cl",
+          "listeners": 976,
+          "name": "Santiago"
+        },
+        {
+          "code2": "mx",
+          "listeners": 964,
+          "name": "Mexico City"
+        },
+        {
+          "code2": "es",
+          "listeners": 865,
+          "name": "Madrid"
+        },
+        {
+          "code2": "co",
+          "listeners": 736,
+          "name": "Bogotá"
+        }
+      ],
+      "ins_followers": 17785,
+      "ins_followers_rank": 86664,
+      "ycs_subscribers": 31,
+      "ycs_subscribers_rank": 210782,
+      "ycs_views": 0,
+      "ycs_views_rank": 225375,
+      "tiktok_followers": null,
+      "tiktok_followers_rank": null,
+      "tiktok_likes": null,
+      "tiktok_likes_rank": null,
+      "tiktok_top_video_views": 91326,
+      "tiktok_top_video_views_rank": 537360,
+      "tiktok_top_video_comments": 56,
+      "tiktok_track_posts": 25,
+      "tiktok_track_posts_rank": 741140,
+      "cm_artist_rank": 237729,
+      "cm_artist_score": 40.2510081444394,
+      "fan_base_rank": 499890,
+      "rank_fb": 499890,
+      "rank_eg": 192753,
+      "engagement_rank": 192753,
+      "youtube_daily_video_views": null,
+      "youtube_daily_video_views_rank": null,
+      "youtube_monthly_video_views": null,
+      "youtube_monthly_video_views_rank": null,
+      "twitch_followers": null,
+      "twitch_followers_rank": null,
+      "twitch_views": null,
+      "twitch_views_rank": null,
+      "twitch_monthly_viewer_hours": null,
+      "twitch_monthly_viewer_hours_rank": null,
+      "twitch_weekly_viewer_hours": null,
+      "twitch_weekly_viewer_hours_rank": null,
+      "pandora_listeners_28_day": null,
+      "pandora_listeners_28_day_rank": null,
+      "pandora_lifetime_stations_added": null,
+      "pandora_lifetime_stations_added_rank": null,
+      "pandora_lifetime_streams": null,
+      "pandora_lifetime_streams_rank": null,
+      "boomplay_ranking_current": null,
+      "boomplay_ranking_current_rank": null,
+      "boomplay_favorites": null,
+      "boomplay_favorites_rank": null,
+      "boomplay_shares": null,
+      "boomplay_shares_rank": null,
+      "boomplay_comments": null,
+      "boomplay_comments_rank": null,
+      "boomplay_plays": null,
+      "boomplay_plays_rank": null,
+      "num_sp_editorial_playlists": 0,
+      "num_sp_playlists": 1193,
+      "sp_playlist_total_reach": 239921,
+      "sp_editorial_playlist_total_reach": 0,
+      "num_am_editorial_playlists": 1,
+      "num_am_playlists": 1,
+      "num_de_editorial_playlists": 0,
+      "num_de_playlists": 1,
+      "de_playlist_total_reach": 24256,
+      "de_editorial_playlist_total_reach": 0,
+      "num_az_editorial_playlists": null,
+      "num_az_playlists": null,
+      "num_yt_editorial_playlists": null,
+      "num_yt_playlists": null,
+      "yt_playlist_total_reach": null,
+      "yt_editorial_playlist_total_reach": null,
+      "shazam_count": 5067,
+      "genius_pageviews": null,
+      "line_music_artist_likes": null,
+      "line_music_likes": null,
+      "line_music_likes_rank": null,
+      "line_music_plays": null,
+      "line_music_plays_rank": null,
+      "line_music_mv_plays": null
+    },
+    "genreRank": {},
+    "subGenreRank1": {},
+    "subGenreRank2": {}
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 481237,
+        "name": "8Kays",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb337624f12e7db6ee7a88b858",
+        "isni": null,
+        "verified": false,
+        "sp_followers": 35129,
+        "sp_monthly_listeners": 181892,
+        "cm_artist_score": 62.88211557288905,
+        "band": false,
+        "gender": "female",
+        "primary_genre_smart": 501815
+      },
+      {
+        "id": 5557225,
+        "name": "8Kays",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cac7763f19b001d2ce679355",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 38,
+        "sp_monthly_listeners": 57,
+        "cm_artist_score": 0.177645357755607,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501175
+      },
+      {
+        "id": 15128627,
+        "name": "8Kays",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 12687820,
+        "name": "8kayda",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273450bf4ca3ff3b3daf7556b6e",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 6,
+        "sp_monthly_listeners": 1,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501121
+      },
+      {
+        "id": 10895848,
+        "name": "8Kashi",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 10895830,
+        "name": "8Kashii",
+        "image_url": null,
+        "isni": null,
+        "verified": null,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 15492803,
+        "name": "8Kashii",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 8606215,
+        "name": "8Kashimigum",
+        "image_url": "https://i.scdn.co/image/ab67616d00001e0215dd05e6a4492493b235a7f5",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 8606209,
+        "name": "8kashimigum",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501799
+      },
+      {
+        "id": 13585862,
+        "name": "8KEYS",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb7732062b0739f60d3fc66470",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 8,
+        "sp_monthly_listeners": 3,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      }
+    ]
+  }
+}

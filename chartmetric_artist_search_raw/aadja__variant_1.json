@@ -1,0 +1,136 @@
+{
+  "obj": {
+    "artists": [
+      {
+        "id": 1453245,
+        "name": "AADJA",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebc2ff4c7f2723eac700ce95ca",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 8400,
+        "sp_monthly_listeners": 23391,
+        "cm_artist_score": 33.11637472948304,
+        "band": null,
+        "gender": "female",
+        "primary_genre_smart": 501261
+      },
+      {
+        "id": 9840583,
+        "name": "Aadarsh Buddy",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27316f62be4ba1500404bde4196",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 13993,
+        "sp_monthly_listeners": 72646,
+        "cm_artist_score": 42.27526337002539,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 503782
+      },
+      {
+        "id": 11272153,
+        "name": "AADJST",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cdea2f4386916a8965c00676",
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501134
+      },
+      {
+        "id": 3831026,
+        "name": "Aadje Helweg/Marcel Thielemans",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0.0091070167371754,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 1416878,
+        "name": "Aadje Piraatje",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ede1ea7938a23bbb90fb15a8",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 600,
+        "sp_monthly_listeners": 5674,
+        "cm_artist_score": 12.84864221892853,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 504384
+      },
+      {
+        "id": 15406843,
+        "name": "AAD ANANT RECORDS",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731f5717754c772b3d57a31147",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 10,
+        "sp_monthly_listeners": 6,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 14613686,
+        "name": "AADA",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736fc2a340dc924686f4dba575",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 59,
+        "sp_monthly_listeners": 179,
+        "cm_artist_score": 1.937383886908695,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501472
+      },
+      {
+        "id": 11885290,
+        "name": "AADABAAD",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738d14b7c4ede58d5213c509c4",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 10,
+        "sp_monthly_listeners": 1,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 462905
+      },
+      {
+        "id": 15130121,
+        "name": "AADAMS, VICTORIA",
+        "image_url": null,
+        "isni": null,
+        "verified": true,
+        "sp_followers": null,
+        "sp_monthly_listeners": null,
+        "cm_artist_score": 0,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": null
+      },
+      {
+        "id": 13257652,
+        "name": "AADARSH NAGAR",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731a16155709eead60dee92f4e",
+        "isni": null,
+        "verified": true,
+        "sp_followers": 113,
+        "sp_monthly_listeners": 1,
+        "cm_artist_score": 1.599848037989193,
+        "band": null,
+        "gender": null,
+        "primary_genre_smart": 501799
+      }
+    ]
+  }
+}
