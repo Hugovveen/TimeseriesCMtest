@@ -73,21 +73,37 @@ def get_token() -> str:
 def get_json(path: str, token: str, params: Optional[Dict[str, Any]] = None) -> Optional[Dict[str, Any]]:
     url = f"{HOST}{path}"
 
-    response = requests.get(
-        url,
-        headers={"Authorization": f"Bearer {token}"},
-        params=params,
-        timeout=30,
-    )
+    try:
+        response = requests.get(
+            url,
+            headers={"Authorization": f"Bearer {token}"},
+            params=params,
+            timeout=90,
+        )
 
-    print(f"STATUS {response.status_code}: {response.url}")
+        print(f"STATUS {response.status_code}: {response.url}")
 
-    if response.status_code == 200:
-        return response.json()
+        if response.status_code == 200:
+            return response.json()
 
-    print("ERROR RESPONSE:")
-    print(response.text)
-    return None
+        print("ERROR RESPONSE:")
+        print(response.text)
+        return None
+
+    except requests.exceptions.ReadTimeout:
+        print(f"TIMEOUT: {url}")
+        print(f"PARAMS: {params}")
+        return None
+
+    except requests.exceptions.ConnectionError as error:
+        print(f"CONNECTION ERROR: {url}")
+        print(error)
+        return None
+
+    except requests.exceptions.RequestException as error:
+        print(f"REQUEST ERROR: {url}")
+        print(error)
+        return None
 
 
 def safe_endpoint_name(path: str, params: Optional[Dict[str, Any]] = None) -> str:
@@ -363,22 +379,24 @@ def build_candidates(artist_id: int) -> List[Dict[str, Any]]:
                 "until": UNTIL,
             },
         },
-
+        
+        #Not required for first draft
         # Spotify geo listeners by city/country
-        {
-            "label": "where_people_listen",
-            "type": "where_people_listen",
-            "source": "spotify",
-            "metric": "listeners",
-            "path": f"/api/artist/{artist_id}/where-people-listen",
-            "params": {
-                "since": SINCE,
-                "until": UNTIL,
-                "limit": 50,
-                "offset": 0,
-                "includeEstimates": "true",
-            },
-        },
+    #     {
+    #         "label": "where_people_listen",
+    #         "type": "where_people_listen",
+    #         "source": "spotify",
+    #         "metric": "listeners",
+    #         "path": f"/api/artist/{artist_id}/where-people-listen",
+    #         "params": {
+    #             "since": SINCE,
+    #             "until": UNTIL,
+    #             "limit": 50,
+    #             "offset": 0,
+    #             "includeEstimates": "true",
+    #         },
+    #     },
+    # ]
     ]
 
 
@@ -653,6 +671,8 @@ def write_long_csv(rows: List[Dict[str, Any]], output_path: Path) -> None:
 
 def write_endpoint_summary(rows: List[Dict[str, Any]], output_path: Path) -> None:
     fieldnames = [
+        "artist_id",
+        "artist_name",
         "endpoint_label",
         "path",
         "params",
@@ -682,31 +702,84 @@ def main() -> None:
     all_long_rows = []
     endpoint_summary_rows = []
 
-    for artist_index, artist_row in enumerate(artist_rows, start=1):
-        artist_id = int(artist_row["chartmetric_artist_id"])
-        artist_name = artist_row["artist_name"]
-        candidates = build_candidates(artist_id)
+    try:
+        for artist_index, artist_row in enumerate(artist_rows, start=1):
+            artist_id = int(artist_row["chartmetric_artist_id"])
+            artist_name = artist_row["artist_name"]
+            candidates = build_candidates(artist_id)
 
-        print("\n" + "#" * 80)
-        print(f"{artist_index}/{len(artist_rows)}: {artist_name} ({artist_id})")
+            print("\n" + "#" * 80)
+            print(f"{artist_index}/{len(artist_rows)}: {artist_name} ({artist_id})")
 
-        for index, candidate in enumerate(candidates, start=1):
-            label = candidate["label"]
-            endpoint_type = candidate["type"]
-            path = candidate["path"]
-            params = candidate.get("params", {})
+            for index, candidate in enumerate(candidates, start=1):
+                label = candidate["label"]
+                endpoint_type = candidate["type"]
+                path = candidate["path"]
+                params = candidate.get("params", {})
 
-            print("\n" + "=" * 80)
-            print(f"Endpoint {index}/{len(candidates)}: {label}")
-            print(path)
-            print(params)
+                print("\n" + "=" * 80)
+                print(f"Endpoint {index}/{len(candidates)}: {label}")
+                print(path)
+                print(params)
 
-            pulled_at = now_utc_iso()
-            endpoint_name = safe_endpoint_name(f"{artist_id}__{path}", params)
+                pulled_at = now_utc_iso()
+                endpoint_name = safe_endpoint_name(f"{artist_id}__{path}", params)
 
-            data = get_json(path, token, params=params)
+                data = get_json(path, token, params=params)
 
-            if data is None:
+                if data is None:
+                    endpoint_summary_rows.append(
+                        {
+                            "artist_id": artist_id,
+                            "artist_name": artist_name,
+                            "endpoint_label": label,
+                            "path": path,
+                            "params": json.dumps(params, ensure_ascii=False),
+                            "success": "False",
+                            "row_count": 0,
+                            "raw_json_path": "",
+                        }
+                    )
+                    time.sleep(SLEEP_SECONDS)
+                    continue
+
+                raw_path = save_raw_json(endpoint_name, data)
+
+                if endpoint_type == "stat_source":
+                    long_rows = flatten_stat_source(
+                        data=data,
+                        source=candidate["source"],
+                        requested_metric=candidate["metric"],
+                        endpoint_label=label,
+                        pulled_at=pulled_at,
+                    )
+
+                elif endpoint_type == "cpp":
+                    long_rows = flatten_cpp(
+                        data=data,
+                        source=candidate["source"],
+                        metric=candidate["metric"],
+                        endpoint_label=label,
+                        pulled_at=pulled_at,
+                    )
+
+                elif endpoint_type == "where_people_listen":
+                    long_rows = flatten_where_people_listen(
+                        data=data,
+                        endpoint_label=label,
+                        pulled_at=pulled_at,
+                    )
+
+                else:
+                    long_rows = []
+
+                for row in long_rows:
+                    row["artist_id"] = f"cm_{artist_id}"
+                    row["chartmetric_artist_id"] = artist_id
+                    row["artist_name"] = artist_name
+
+                all_long_rows.extend(long_rows)
+
                 endpoint_summary_rows.append(
                     {
                         "artist_id": artist_id,
@@ -714,78 +787,26 @@ def main() -> None:
                         "endpoint_label": label,
                         "path": path,
                         "params": json.dumps(params, ensure_ascii=False),
-                        "success": "False",
-                        "row_count": 0,
-                        "raw_json_path": "",
+                        "success": "True",
+                        "row_count": len(long_rows),
+                        "raw_json_path": str(raw_path),
                     }
                 )
+
+                print(f"Flattened rows: {len(long_rows)}")
                 time.sleep(SLEEP_SECONDS)
-                continue
 
-            raw_path = save_raw_json(endpoint_name, data)
+    finally:
+        write_long_csv(all_long_rows, OUTPUT_LONG_CSV)
+        write_endpoint_summary(endpoint_summary_rows, OUTPUT_ENDPOINT_SUMMARY_CSV)
 
-            if endpoint_type == "stat_source":
-                long_rows = flatten_stat_source(
-                    data=data,
-                    source=candidate["source"],
-                    requested_metric=candidate["metric"],
-                    endpoint_label=label,
-                    pulled_at=pulled_at,
-                )
-
-            elif endpoint_type == "cpp":
-                long_rows = flatten_cpp(
-                    data=data,
-                    source=candidate["source"],
-                    metric=candidate["metric"],
-                    endpoint_label=label,
-                    pulled_at=pulled_at,
-                )
-
-            elif endpoint_type == "where_people_listen":
-                long_rows = flatten_where_people_listen(
-                    data=data,
-                    endpoint_label=label,
-                    pulled_at=pulled_at,
-                )
-
-            else:
-                # Metadata endpoints are saved raw only.
-                long_rows = []
-
-            # Attach artist metadata to every flattened row.
-            for row in long_rows:
-                row["artist_id"] = f"cm_{artist_id}"
-                row["chartmetric_artist_id"] = artist_id
-                row["artist_name"] = artist_name
-
-            all_long_rows.extend(long_rows)
-
-            endpoint_summary_rows.append(
-                {
-                    "artist_id": artist_id,
-                    "artist_name": artist_name,
-                    "endpoint_label": label,
-                    "path": path,
-                    "params": json.dumps(params, ensure_ascii=False),
-                    "success": "True",
-                    "row_count": len(long_rows),
-                    "raw_json_path": str(raw_path),
-                }
-            )
-
-            print(f"Flattened rows: {len(long_rows)}")
-            time.sleep(SLEEP_SECONDS)
-
-    write_long_csv(all_long_rows, OUTPUT_LONG_CSV)
-    write_endpoint_summary(endpoint_summary_rows, OUTPUT_ENDPOINT_SUMMARY_CSV)
-
-    print("\n" + "=" * 80)
-    print("DONE")
-    print(f"Raw JSON saved to: {RAW_DIR.resolve()}")
-    print(f"Long time-series CSV saved to: {OUTPUT_LONG_CSV.resolve()}")
-    print(f"Endpoint summary saved to: {OUTPUT_ENDPOINT_SUMMARY_CSV.resolve()}")
-    print(f"Total long rows: {len(all_long_rows)}")
+        print("\n" + "=" * 80)
+        print("PARTIAL OR FULL OUTPUT WRITTEN")
+        print(f"Raw JSON saved to: {RAW_DIR.resolve()}")
+        print(f"Long time-series CSV saved to: {OUTPUT_LONG_CSV.resolve()}")
+        print(f"Endpoint summary saved to: {OUTPUT_ENDPOINT_SUMMARY_CSV.resolve()}")
+        print(f"Total long rows: {len(all_long_rows)}")
+        print(f"Total endpoint summary rows: {len(endpoint_summary_rows)}")
 
 
 if __name__ == "__main__":
